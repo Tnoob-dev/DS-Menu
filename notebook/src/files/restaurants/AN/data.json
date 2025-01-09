@@ -180,7 +180,6 @@
                 "eur": false
             }
         },
-        "percentage_service": {"is_required": true, "value": 5},
         "schedules": {
             "monday": {"start_time": "10:00","end_time": "23:00"},
             "tuesday": {"start_time": "10:00","end_time": "23:00"},

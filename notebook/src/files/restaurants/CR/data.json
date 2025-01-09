@@ -23,7 +23,6 @@
                 "eur": false
             }
         },
-        "percentage_service": {"is_required": true, "value": 10},
         "schedules": {
             "monday": {"start_time": "12:00","end_time": "00:00"},
             "tuesday": {"start_time": "12:00","end_time": "00:00"},
@@ -143,7 +142,6 @@
                 "eur": false
             }
         },
-        "percentage_service": {"is_required": false, "value": null},
         "schedules": {
             "monday": {"start_time": "11:00","end_time": "22:00"},
             "tuesday": {"start_time": "11:00","end_time": "22:00"},
@@ -254,7 +252,6 @@
                 "eur": false
             }
         },
-        "percentage_service": {"is_required": false, "value": null},
         "schedules": {
             "monday": {"start_time": "07:30","end_time": "19:30"},
             "tuesday": {"start_time": "07:30","end_time": "19:30"},
@@ -371,7 +368,6 @@
                 "eur": false
             }
         },
-        "percentage_service": {"is_required": false, "value": null},
         "schedules": {
             "monday": {"start_time": "11:00","end_time": "23:00"},
             "tuesday": {"start_time": "11:00","end_time": "23:00"},
@@ -491,7 +487,6 @@
                 "eur": false
             }
         },
-        "percentage_service": {"is_required": false, "value": null},
         "schedules": {
             "monday": {"start_time": "09:00","end_time": "23:00"},
             "tuesday": {"start_time": "09:00","end_time": "23:00"},
@@ -661,7 +656,6 @@
                 "eur": false
             }
         },
-        "percentage_service": {"is_required": false, "value": null},
         "schedules": {
             "monday": {"start_time": "10:00","end_time": "22:00"},
             "tuesday": {"start_time": "10:00","end_time": "22:00"},
@@ -790,7 +784,6 @@
                 "eur": false
             }
         },
-        "percentage_service": {"is_required": false, "value": null},
         "schedules": {
             "monday": {"start_time": "14:00","end_time": "02:00"},
             "tuesday": {"start_time": "14:00","end_time": "02:00"},
@@ -1215,7 +1208,6 @@
                 "eur": true
             }
         },
-        "percentage_service": {"is_required": false, "value": null},
         "schedules": {
             "monday": {"start_time": "12:00","end_time": "23:00"},
             "tuesday": {"start_time": "12:00","end_time": "23:00"},
@@ -1795,7 +1787,6 @@
                 "eur": false
             }
         },
-        "percentage_service": {"is_required": false, "value": null},
         "schedules": {
             "monday": {"start_time": "09:00","end_time": "23:00"},
             "tuesday": {"start_time": "09:00","end_time": "23:00"},
@@ -1950,7 +1941,6 @@
                 "eur": false
             }
         },
-        "percentage_service": {"is_required": false, "value": null},
         "schedules": {
             "monday": {"start_time": "09:00","end_time": "21:00"},
             "tuesday": {"start_time": "09:00","end_time": "21:00"},

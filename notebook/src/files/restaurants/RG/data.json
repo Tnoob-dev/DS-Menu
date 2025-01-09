@@ -23,7 +23,6 @@
                 "eur": false
             }
         },
-        "percentage_service": {"is_required": false, "value": null},
         "schedules": {
             "monday": {"start_time": "13:00","end_time": "01:00"},
             "tuesday": {"start_time": "13:00","end_time": "01:00"},
@@ -419,7 +418,6 @@
                 "eur": false
             }
         },
-        "percentage_service": {"is_required": false, "value": null},
         "schedules": {
             "monday": {"start_time": "10:00","end_time": "20:00"},
             "tuesday": {"start_time": "10:00","end_time": "20:00"},
@@ -590,7 +588,6 @@
                 "eur": false
             }
         },
-        "percentage_service": {"is_required": false, "value": null},
         "schedules": {
             "monday": {"start_time": "12:00","end_time": "00:00"},
             "tuesday": {"start_time": "12:00","end_time": "00:00"},
@@ -1071,7 +1068,6 @@
                 "eur": false
             }
         },
-        "percentage_service": {"is_required": false, "value": null},
         "schedules": {
             "monday": {"start_time": "09:00","end_time": "12:00"},
             "tuesday": {"start_time": "09:00","end_time": "12:00"},
