@@ -1,0 +1,77 @@
+[
+    {
+        "id": "AN",
+        "name": "Arroyo Naranjo",
+        "number_of_centers": 10
+    },
+    {
+        "id": "BY",
+        "name": "Boyeros",
+        "number_of_centers": 10
+    },
+    {
+        "id": "CH",
+        "name": "Centro Habana",
+        "number_of_centers": 10
+    },
+    {
+        "id": "CR",
+        "name": "Cerro",
+        "number_of_centers": 10
+    },
+    {
+        "id": "CT",
+        "name": "Cotorro",
+        "number_of_centers": 10
+    },
+    {
+        "id": "DO",
+        "name": "Diez de Octubre",
+        "number_of_centers": 30
+    },
+    {
+        "id": "GB",
+        "name": "Guanabacoa",
+        "number_of_centers": 10
+    },
+    {
+        "id": "HE",
+        "name": "La Habana del Este",
+        "number_of_centers": 10
+    },
+    {
+        "id": "HV",
+        "name": "La Habana Vieja",
+        "number_of_centers": 30
+    },
+    {
+        "id": "LL",
+        "name": "La Lisa",
+        "number_of_centers": 10
+    },
+    {
+        "id": "MN",
+        "name": "Marianao",
+        "number_of_centers": 10
+    },
+    {
+        "id": "PY",
+        "name": "Playa",
+        "number_of_centers": 30
+    },
+    {
+        "id": "PZ",
+        "name": "Plaza de La Revolucion",
+        "number_of_centers": 10
+    },
+    {
+        "id": "RG",
+        "name": "Regla",
+        "number_of_centers": 10
+    },
+    {
+        "id": "SM",
+        "name": "San Miguel",
+        "number_of_centers": 10
+    }
+]

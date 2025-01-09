@@ -1,0 +1,2319 @@
+[
+    {
+        "name": "Los Taticos",
+        "localization": {
+            "municipality":"MN",
+            "coordinates": {
+                "latitude": 23.08427961422461,
+                "longitude": -82.43597367849351
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": true,
+                "eur": true
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "08:00","end_time": "00:00"},
+            "tuesday": {"start_time": "08:00","end_time": "00:00"},
+            "wednesday": {"start_time": "08:00","end_time": "00:00"},
+            "thursday": {"start_time": "08:00","end_time": "00:00"},
+            "friday": {"start_time": "08:00","end_time": "00:00"},
+            "saturday": {"start_time": "08:00","end_time": "00:00"},
+            "sunday": {"start_time": "08:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+                {
+                    "name": "picadera tatico",
+                    "price": 2800.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "entremes surtido",
+                    "price": 800.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 800.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "bolitas de queso",
+                    "price": 800.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "bolitas de carne",
+                    "price": 800.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "croquetas caseras",
+                    "price": 800.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "taco de cerdo",
+                    "price": 650.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "taco de carne",
+                    "price": 800.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "taco de atun",
+                    "price": 800.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "super hamburguesa tatico",
+                    "price": 900.0,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "hamburguesa tatico",
+                    "price": 750.0,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "super hamburguesa queso",
+                    "price": 800.0,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "hamburguesa queso",
+                    "price": 650.0,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "super hamburguesa sencilla",
+                    "price": 700.0,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "hamburguesa sencilla",
+                    "price": 600.0,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "sandwich tatico",
+                    "price": 650.0,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "bocadito de atun",
+                    "price": 600.0,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "pan con lechon",
+                    "price": 650.0,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "pan con croqueta",
+                    "price": 240.0,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "pollo al carbon",
+                    "price": 1200.0,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "pizza tatico",
+                    "price": 1200.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizza mixta",
+                    "price": 680.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 680.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizza jamon",
+                    "price": 680.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizza de queso",
+                    "price": 680.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "lasagna",
+                    "price": 1250.0,
+                    "category": "pasta/pizza"
+                }
+            ],
+            "drinks": null
+        }
+    },
+    {
+        "name": "Rodney",
+        "localization": {
+            "municipality":"MN",
+            "coordinates": {
+                "latitude": 23.0945842,
+                "longitude": -82.4186735
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "04:00"},
+            "tuesday": {"start_time": "12:00","end_time": "04:00"},
+            "wednesday": {"start_time": "12:00","end_time": "04:00"},
+            "thursday": {"start_time": "12:00","end_time": "04:00"},
+            "friday": {"start_time": "12:00","end_time": "04:00"},
+            "saturday": {"start_time": "12:00","end_time": "04:00"},
+            "sunday": {"start_time": "12:00","end_time": "04:00"}
+        },
+        "menu": {
+            "food":[
+                {
+                    "name": "sandwich de un agrego",
+                    "price": 230,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "sandwich de dos agregos",
+                    "price": 300,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "picadera de la casa",
+                    "price": 650,
+                    "category": "starter"
+                },
+                {
+                    "name": "entremes de embutido y queso",
+                    "price": 400,
+                    "category": "starter"
+                },
+                {
+                    "name": "tacos mexicanos de pollo",
+                    "price": 700,
+                    "category": "starter"
+                },
+                {
+                    "name": "tacos mexicanos de cerdo",
+                    "price": 1400,
+                    "category": "starter"
+                },
+                {
+                    "name": "sopa del dia",
+                    "price": 125,
+                    "category": "starter"
+                },
+                {
+                    "name": "croquetas",
+                    "price": 250,
+                    "category": "starter"
+                },
+                {
+                    "name": "crema aurora",
+                    "price": 350,
+                    "category": "starter"
+                },
+                {
+                    "name": "crema virginia",
+                    "price": 480,
+                    "category": "starter"
+                },
+                {
+                    "name": "crema de calabaza con queso",
+                    "price": 400,
+                    "category": "starter"
+                },
+                {
+                    "name": "eperlan de pescado",
+                    "price": 600,
+                    "category": "starter"
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 500,
+                    "category": "starter"
+                },
+                {
+                    "name": "lonjas de cerdo asada",
+                    "price": 2000.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "fricase de cerdo",
+                    "price": 2300.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "bistec de cerdo grille",
+                    "price": 1800.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pollo asado",
+                    "price": 850.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pollo frito",
+                    "price": 900.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pollo deshuesado",
+                    "price": 900.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "filete migñon",
+                    "price": 3000.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "steack de res",
+                    "price": 1400.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "filete de pescado a la plancha",
+                    "price": 1500.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "filete de pescado gratinado con queso",
+                    "price": 1750.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "filete de pescado canciller",
+                    "price": 2000.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "langosta a la plancha",
+                    "price": 1800.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "langosta enchilada",
+                    "price": 1900.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pizza napolitana",
+                    "price": 500,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizza campesina",
+                    "price": 1200,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizza especial rodney (rellena con queso)",
+                    "price": 800,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizza especial rodney (rellena con embutido)",
+                    "price": 900,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizza super especial rodney (rellena con queso y varios embutidos)",
+                    "price": 1200,
+                    "category": "pasta/pizza"
+                }
+            ],
+            "drinks": null
+        }
+    },
+    {
+        "name": "La Yuya",
+        "localization": {
+            "municipality":"MN",
+            "coordinates": {
+                "latitude": 23.0814828,
+                "longitude": -82.4219993
+            }
+        },
+        "cuisine": ["Criolla", "Italiana"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "11:00","end_time": "23:00"},
+            "tuesday": {"start_time": "11:00","end_time": "23:00"},
+            "wednesday": {"start_time": "11:00","end_time": "23:00"},
+            "thursday": {"start_time": "11:00","end_time": "23:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+                {
+                    "name": "superpicadera",
+                    "price": 2500.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 600.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 500.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 500.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "croquetas",
+                    "price": 600.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "fajitas de pollo con papa",
+                    "price": 900.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "pizza napolitana",
+                    "price": 1000.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizza doble queso",
+                    "price": 1300.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizza de jamon",
+                    "price": 1350.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "spaguettis con queso gouda",
+                    "price": 700.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "spaguettis doble queso",
+                    "price": 1000.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "helados gusto",
+                    "price": 1000.0,
+                    "category": "dessert"
+                }
+            ],
+            "drinks":[
+                {
+                    "name": "cervezas importadas",
+                    "price": 250.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cerveza cubelazo",
+                    "price": 2700.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "termo de cerveza",
+                    "price": 2000.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "refrescos importados",
+                    "price": 250.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "jugo de lata",
+                    "price": 280.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "jugos caja",
+                    "price": 650.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "malta santa isabel",
+                    "price": 280.0,
+                    "is_alcoholic": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Colesterol 5.1",
+        "localization": {
+            "municipality":"MN",
+            "coordinates": {
+                "latitude": 23.070935,
+                "longitude": -82.435538
+            }
+        },
+        "cuisine": ["Criolla", "Italiana", "Cocteleria"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": true,
+                "eur": true
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "10:00","end_time": "00:00"},
+            "tuesday": {"start_time": "10:00","end_time": "00:00"},
+            "wednesday": {"start_time": "10:00","end_time": "00:00"},
+            "thursday": {"start_time": "10:00","end_time": "00:00"},
+            "friday": {"start_time": "10:00","end_time": "00:00"},
+            "saturday": {"start_time": "10:00","end_time": "00:00"},
+            "sunday": {"start_time": "10:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+                {
+                    "name": "tostones",
+                    "price": 490.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "mariposita china",
+                    "price": 565.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 590.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "bolitas de queso con miel y mostaza",
+                    "price": 730.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "croquetas colesterol 5.1",
+                    "price": 835.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 950.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "fajitas de cerdo",
+                    "price": 1150.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "cóctel de camarones",
+                    "price": 1670.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "eperlan de pescado",
+                    "price": 950.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "ensalada fría de jamón",
+                    "price": 835.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "ensalada fría de pollo",
+                    "price": 865.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "ensalada fría de atún",
+                    "price": 995.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "ensalada fría de marisco",
+                    "price": 1125.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "crema de queso",
+                    "price": 595.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "crema de mariscos",
+                    "price": 920.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "garbanzo frito",
+                    "price": 1670.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "tacos de pollo",
+                    "price": 1260.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "tacos de cerdo",
+                    "price": 1670.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "tacos de res",
+                    "price": 1925.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "tacos de marineros",
+                    "price": 2330.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "tabla colesterol",
+                    "price": 3320.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "sandwich ropa vieja",
+                    "price": 760.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "sandwich de jamón y queso",
+                    "price": 765.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "sandwich cubano",
+                    "price": 1320.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "sandwich de atún y cebolla",
+                    "price": 1945.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "masa de cerdo frita",
+                    "price": 2725.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "bistec uruguayo",
+                    "price": 2995.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "chuleta de cerdo en salsa agridulce",
+                    "price": 3200.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "bistec suprema",
+                    "price": 2460.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "ropa vieja res",
+                    "price": 2190.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "vaca frita",
+                    "price": 2190.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "brocheta mixta",
+                    "price": 2600.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "enchilado de cangrejo",
+                    "price": 1005.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "enchilado de langosta",
+                    "price": 3030.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "mariscada estelares 5.1",
+                    "price": 3800.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pescado enchilado",
+                    "price": 2600.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "filete de pescado grille",
+                    "price": 3625.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "filete de pescado canciller",
+                    "price": 3675.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "arroz con artistage",
+                    "price": 2800.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pizza margarita 5.1",
+                    "price": 1930.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizza de jamón",
+                    "price": 2115.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 2215.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizza de bacon, pepperoni y jamón serrano",
+                    "price": 2845.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizza campesina",
+                    "price": 2645.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizza marinera",
+                    "price": 3020.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "espaguetis napolitanos",
+                    "price": 925.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "espaguetis con jamón",
+                    "price": 1145.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "espaguetis a la boloñesa",
+                    "price": 1800.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "espaguetis al pesto",
+                    "price": 1265.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "espaguetis carbonara",
+                    "price": 2475.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "espaguetis con frutos de mar",
+                    "price": 3750.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "lasagna boloñesa",
+                    "price": 2245.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "churros con leche condensada",
+                    "price": 300.0,
+                    "category": "dessert"
+                },
+                {
+                    "name": "tocinillo",
+                    "price": 300.0,
+                    "category": "dessert"
+                },
+                {
+                    "name": "sunday",
+                    "price": 470.0,
+                    "category": "dessert"
+                },
+                {
+                    "name": "churros acompañado de chocolate caliente",
+                    "price": 700.0,
+                    "category": "dessert"
+                }
+            ],
+            "drinks": [
+                {
+                    "name": "base chelada",
+                    "price": 170.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "base michelada",
+                    "price": 220.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "caipiroska",
+                    "price": 495.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "caipiriña",
+                    "price": 495.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cubata",
+                    "price": 550.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cuba libre",
+                    "price": 550.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "daikiri floridita",
+                    "price": 600.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "tinto verano",
+                    "price": 600.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "gyntonic",
+                    "price": 650.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "canchanchara",
+                    "price": 660.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "piña colada",
+                    "price": 660.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "mojito",
+                    "price": 720.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "sangría especial 5.1",
+                    "price": 720.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cerveza nacional",
+                    "price": 480.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cerveza importada",
+                    "price": 380.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "café express",
+                    "price": 250.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "frapuccino",
+                    "price": 450.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "agua mineral",
+                    "price": 190.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "jugos de frutas",
+                    "price": 300.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "jugos de cajita",
+                    "price": 340.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "batidos de frutas",
+                    "price": 495.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "malta",
+                    "price": 420.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "malteada",
+                    "price": 545.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "refresco de lata",
+                    "price": 350.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "refresco pepsi",
+                    "price": 420.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "refresco seven up",
+                    "price": 420.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "suero de helado",
+                    "price": 610.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "energizante",
+                    "price": 360.0,
+                    "is_alcoholic": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ranchon de 41",
+        "localization": {
+            "municipality":"MN",
+            "coordinates": {
+                "latitude": 23.0896075,
+                "longitude": -82.4216206
+            }
+        },
+        "cuisine": ["Criolla", "Italiana"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "00:00","end_time": "00:00"},
+            "tuesday": {"start_time": "00:00","end_time": "00:00"},
+            "wednesday": {"start_time": "00:00","end_time": "00:00"},
+            "thursday": {"start_time": "00:00","end_time": "00:00"},
+            "friday": {"start_time": "00:00","end_time": "00:00"},
+            "saturday": {"start_time": "00:00","end_time": "00:00"},
+            "sunday": {"start_time": "00:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+                {
+                    "name": "croquetas de la casa",
+                    "price": 400.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "coctel de camaron",
+                    "price": 650.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "picadera el toro bravo",
+                    "price": 1700.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "pollo chiflado",
+                    "price": 1200.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 750.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pizza de queso blanco",
+                    "price": 400.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizza de queso gouda",
+                    "price": 680.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "espaguetis",
+                    "price": 700.0,
+                    "category": "pasta/pizza"
+                }
+            ],
+            "drinks": [
+                {
+                    "name": "suero de helado",
+                    "price": 400.0,
+                    "is_alcoholic": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "MMCafeteria",
+        "localization": {
+            "municipality":"MN",
+            "coordinates": {
+                "latitude": 23.089494,
+                "longitude": -82.421700
+            }
+        },
+        "cuisine": ["Criolla", "Mexicana", "Italiana"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": true,
+                "eur": true
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "09:00","end_time": "22:00"},
+            "tuesday": {"start_time": "09:00","end_time": "22:00"},
+            "wednesday": {"start_time": "09:00","end_time": "22:00"},
+            "thursday": {"start_time": "09:00","end_time": "22:00"},
+            "friday": {"start_time": "09:00","end_time": "22:00"},
+            "saturday": {"start_time": "09:00","end_time": "22:00"},
+            "sunday": {"start_time": "09:00","end_time": "22:00"}
+        },
+        "menu": {
+            "food":[
+                {
+                    "name": "papas fritas",
+                    "price": 650.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "croquetas",
+                    "price": 550.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "fritura de malanga",
+                    "price": 550.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 650.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "ensalada fria de jamon",
+                    "price": 800.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "ensalada fria de atun",
+                    "price": 900.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "fajitas de pechuga salteada",
+                    "price": 1200.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "fajitas de pechuga empanada",
+                    "price": 1450.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "fajitas de cerdo salteadas",
+                    "price": 1300.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "fajitas de cerdo empanada",
+                    "price": 1350.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "eperlan",
+                    "price": 1350.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "coctel de camarones",
+                    "price": 2100.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "taco de cerdo",
+                    "price": 1200.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "taco de camaron",
+                    "price": 1400.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "taco de pollo",
+                    "price": 1100.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "taco de res",
+                    "price": 1300.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "crema de queso",
+                    "price": 800.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "bistec de cerdo grille",
+                    "price": 1400.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "cerdo bistec empanizado",
+                    "price": 1600.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "bistec de cerdo uruguayo",
+                    "price": 1950.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "masa de cerdo salteada",
+                    "price": 1350.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "lomo de cerdo",
+                    "price": 1500.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "fricase de cerdo",
+                    "price": 1400.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "bistec de pollo gordon blue",
+                    "price": 1900.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "bistec de pechuga gordon blue",
+                    "price": 1900.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pechuga de pollo grille",
+                    "price": 1500.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pechuga de pollo empanada",
+                    "price": 1400.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "vaca frita",
+                    "price": 1900.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 1900.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pescado grille",
+                    "price": 1500.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pescado empanizado",
+                    "price": 1900.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "enchilado de camarón",
+                    "price": 1400.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "camarón al ajillo",
+                    "price": 1700.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "camaron empanado",
+                    "price": 2000.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "canciller 190grs",
+                    "price": 2000.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "langosta",
+                    "price": 2100.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "cazuela de mariscos",
+                    "price": 2100.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "canciller 180 grs",
+                    "price": 2000.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "arroz blanco",
+                    "price": 200.0,
+                    "category": "food_garnish"
+                },
+                {
+                    "name": "arroz congrí",
+                    "price": 300.0,
+                    "category": "food_garnish"
+                },
+                {
+                    "name": "arroz frito",
+                    "price": 1550.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "arroz imperial",
+                    "price": 1650.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "paella",
+                    "price": 2100.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "arroz frito de cerdo,pollo y mejillon",
+                    "price": 1450.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pizzas napolitanas, 32 cm",
+                    "price": 750.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizzas jamon",
+                    "price": 1100.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizzas bacón",
+                    "price": 1650.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizzas pimiento",
+                    "price": 1050.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizzas cebolla",
+                    "price": 950.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizzas hawaiana",
+                    "price": 1350.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizzas atún",
+                    "price": 1650.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizzas camarón",
+                    "price": 1350.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizzas ropa vieja",
+                    "price": 1500.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizzas de chorizo",
+                    "price": 1100.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizzas mm",
+                    "price": 1800.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "lasagna boloñesa",
+                    "price": 1700.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "espaguettis napolitano",
+                    "price": 700.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "helado cid",
+                    "price": 850.0,
+                    "category": "dessert"
+                }
+            ],
+            "drinks": [
+                {
+                    "name": "cristal v",
+                    "price": 245.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cristal b",
+                    "price": 200.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "bucanero",
+                    "price": 240.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "agua",
+                    "price": 130.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "refresco santa",
+                    "price": 200.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "sprite",
+                    "price": 450.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "santa isabel",
+                    "price": 250.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "energizante",
+                    "price": 260.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "jugo lata",
+                    "price": 265.0,
+                    "is_alcoholic": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "A&J Fast Food",
+        "localization": {
+            "municipality":"MN",
+            "coordinates": {
+                "latitude": 23.072757,
+                "longitude": -82.432088
+            }
+        },
+        "cuisine": ["Americana", "Italiana"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "09:00","end_time": "23:00"},
+            "tuesday": {"start_time": "09:00","end_time": "23:00"},
+            "wednesday": {"start_time": "09:00","end_time": "23:00"},
+            "thursday": {"start_time": "09:00","end_time": "23:00"},
+            "friday": {"start_time": "09:00","end_time": "23:00"},
+            "saturday": {"start_time": "09:00","end_time": "23:00"},
+            "sunday": {"start_time": "09:00","end_time": "23:00"}
+        },
+        "menu": {
+            "food":[
+                {
+                    "name": "hamburguesa clasica",
+                    "price": 450,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "hamburguesa hawaiana",
+                    "price": 480,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "hamburguesa con huevo",
+                    "price": 600,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "hamburguesa 2ble queso",
+                    "price": 550,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "hamburguesa 2ble jamon",
+                    "price": 550,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "hamburguesa con jamon y queso",
+                    "price": 580,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "hamburguesa con chorizo",
+                    "price": 520,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "hamburguesa con jamon y chorizo",
+                    "price": 560,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "hamburguesa con queso y chorizo",
+                    "price": 560,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "hamburguesa tropical",
+                    "price": 520,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "hamburguesa americana",
+                    "price": 800,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "hamburguesa jumbo",
+                    "price": 850,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "hamburguesa especial a&j",
+                    "price": 1250,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "sandwich de jamon y queso",
+                    "price": 550,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "sandwich especial",
+                    "price": 650,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "sandwich marinero",
+                    "price": 650,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "crispi de pollo",
+                    "price": 650,
+                    "category": "starter"
+                },
+                {
+                    "name": "crispi de pollo verano",
+                    "price": 700,
+                    "category": "starter"
+                },
+                {
+                    "name": "croquetas surtidas",
+                    "price": 450,
+                    "category": "starter"
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 450,
+                    "category": "starter"
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 550,
+                    "category": "starter"
+                },
+                {
+                    "name": "toston relleno",
+                    "price": 600,
+                    "category": "starter"
+                },
+                {
+                    "name": "crema de queso",
+                    "price": 500,
+                    "category": "starter"
+                },
+                {
+                    "name": "ensalada fria",
+                    "price": 400,
+                    "category": "starter"
+                },
+                {
+                    "name": "eperlan de pescado",
+                    "price": 800,
+                    "category": "starter"
+                },
+                {
+                    "name": "garbanzos fritos",
+                    "price": 800,
+                    "category": "starter"
+                },
+                {
+                    "name": "coctel de camarones",
+                    "price": 900,
+                    "category": "starter"
+                },
+                {
+                    "name": "camarones rebosados",
+                    "price": 1000,
+                    "category": "starter"
+                },
+                {
+                    "name": "picadera a&j",
+                    "price": 2500,
+                    "category": "starter"
+                },
+                {
+                    "name": "bistec de cerdo grille",
+                    "price": 1150,
+                    "category": "dishes"
+                },
+                {
+                    "name": "bistec de cerdo empanado",
+                    "price": 1300,
+                    "category": "dishes"
+                },
+                {
+                    "name": "bistec uruguayo",
+                    "price": 1700,
+                    "category": "dishes"
+                },
+                {
+                    "name": "bistec de pollo grille",
+                    "price": 1100,
+                    "category": "dishes"
+                },
+                {
+                    "name": "bistec de pollo empanado",
+                    "price": 1250,
+                    "category": "dishes"
+                },
+                {
+                    "name": "golden blue",
+                    "price": 1600,
+                    "category": "dishes"
+                },
+                {
+                    "name": "fajitas de cerdo",
+                    "price": 1250,
+                    "category": "dishes"
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 1150,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pollo frito",
+                    "price": 1400,
+                    "category": "dishes"
+                },
+                {
+                    "name": "lomo ahumado",
+                    "price": 1250,
+                    "category": "dishes"
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 1500,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pescado al limon",
+                    "price": 1750,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pescado gratinado",
+                    "price": 1900,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pescado canciller",
+                    "price": 2300,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pescado rebosado",
+                    "price": 2600,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pescado hawellano",
+                    "price": 1950,
+                    "category": "dishes"
+                },
+                {
+                    "name": "langosta grille",
+                    "price": 1800,
+                    "category": "dishes"
+                },
+                {
+                    "name": "langosta reyna",
+                    "price": 1900,
+                    "category": "dishes"
+                },
+                {
+                    "name": "enchilado de langosta",
+                    "price": 1850,
+                    "category": "dishes"
+                },
+                {
+                    "name": "camaron enchilado",
+                    "price": 1800,
+                    "category": "dishes"
+                },
+                {
+                    "name": "camaron al ajillo",
+                    "price": 1750,
+                    "category": "dishes"
+                },
+                {
+                    "name": "mar y tierra",
+                    "price": 3800,
+                    "category": "dishes"
+                },
+                {
+                    "name": "fiesta de marisco",
+                    "price": 3200,
+                    "category": "dishes"
+                },
+                {
+                    "name": "paella",
+                    "price": 4500,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pizza napolitana 32cm",
+                    "price": 600,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "spaghetti napolitano",
+                    "price": 550,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "spaghetti carbonara",
+                    "price": 1300,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "spaghetti a la matriciana",
+                    "price": 1300,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "lasagna",
+                    "price": 1200,
+                    "category": "pasta/pizza"
+                }
+            ],
+            "drinks": [
+                {
+                    "name": "cerveza",
+                    "price": 220,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "agua",
+                    "price": 150,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "malteada",
+                    "price": 450,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "refresco",
+                    "price": 200,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "malta",
+                    "price": 250,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "energizante",
+                    "price": 220,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "jugos naturales",
+                    "price": 250,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "limonada frappe",
+                    "price": 250,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "batidos de fruta",
+                    "price": 500,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "batido de helado",
+                    "price": 700,
+                    "is_alcoholic": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Tropikana",
+        "localization": {
+            "municipality":"MN",
+            "coordinates": {
+                "latitude": 23.09481372818826,
+                "longitude": -82.41919746499825
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": true,
+                "eur": true
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "11:00","end_time": "00:00"},
+            "tuesday": {"start_time": "11:00","end_time": "00:00"},
+            "wednesday": {"start_time": "11:00","end_time": "00:00"},
+            "thursday": {"start_time": "11:00","end_time": "00:00"},
+            "friday": {"start_time": "11:00","end_time": "00:00"},
+            "saturday": {"start_time": "11:00","end_time": "00:00"},
+            "sunday": {"start_time": "11:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food": [
+                {
+                    "name": "tostones",
+                    "price": 350.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 450.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "crema de queso",
+                    "price": 450.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "crema aurora",
+                    "price": 450.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "crema de jamon",
+                    "price": 450.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "consome",
+                    "price": 450.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "eperlan",
+                    "price": 500.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "croquetas",
+                    "price": 500.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "picadera de la casa",
+                    "price": 100.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "super hamburguesa",
+                    "price": 560.0,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "pan con jamon y queso",
+                    "price": 280.0,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "bistec de cerdo",
+                    "price": 1300.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "bistec de cerdo a la milanesa",
+                    "price": 1800.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "bistec de pollo",
+                    "price": 1000.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pollo frito",
+                    "price": 1000.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pollo a la milanesa",
+                    "price": 1500.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 1550.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "canciller",
+                    "price": 2500.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pescado entero",
+                    "price": 2000.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "rueda de atun",
+                    "price": 1700.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "camarones",
+                    "price": 1700.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "filete de pescado",
+                    "price": 1500.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "arroz frito",
+                    "price": 700.0,
+                    "category": "dishes"
+                },
+                {
+                    "name": "pizza de queso gouda",
+                    "price": 750.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 800.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizza tropicana",
+                    "price": 950.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "espaguettis a la carbonara",
+                    "price": 750.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "espaguettis queso gouda",
+                    "price": 650.0,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "helado gusto 1l",
+                    "price": 1000.0,
+                    "category": "dessert"
+                }
+            ],
+            "drinks": [
+                {
+                    "name": "cervezas nacionales o importadas",
+                    "price": 200.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cerveza dispensada",
+                    "price": 160.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "copa de vino de la casa",
+                    "price": 300.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "havana club 3 años",
+                    "price": 100.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "especial havana club",
+                    "price": 120.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "havana club 7 años",
+                    "price": 320.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "havana club pacto navio",
+                    "price": 730.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "havana club seleccion de maestros",
+                    "price": 750.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "aguardiente gobernador",
+                    "price": 14300.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "chiva regal 12 años",
+                    "price": 995.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "ballentinees finest",
+                    "price": 500.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "j&b",
+                    "price": 650.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "johnnie walker etiqueta roja",
+                    "price": 550.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "jameson",
+                    "price": 650.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "vat",
+                    "price": 580.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "tequila 3 sombreros",
+                    "price": 300.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "vodka igor",
+                    "price": 395.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "brandy napoleón",
+                    "price": 190.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cremas y licores (cacao)",
+                    "price": 85.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cremas y licores (café)",
+                    "price": 85.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cremas y licores (menta)",
+                    "price": 85.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cremas y licores (marrasquino)",
+                    "price": 85.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cremas y licores (triple sec)",
+                    "price": 85.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cremas y licores (curacao azul)",
+                    "price": 85.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cremas y licores (piña)",
+                    "price": 85.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "daiquiri natural",
+                    "price": 450.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "daiquiri frapeado natural",
+                    "price": 450.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cuba libre",
+                    "price": 730.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cubata",
+                    "price": 700.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "daiquiri mulata",
+                    "price": 620.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "daiquiri saborizado",
+                    "price": 450.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "gin cola",
+                    "price": 750.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "gin tonic",
+                    "price": 785.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "rom tonic",
+                    "price": 550.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "vodka cola",
+                    "price": 600.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "vodka tónica",
+                    "price": 650.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "whisky cola",
+                    "price": 500.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "tropicana special",
+                    "price": 450.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cocteles internacionales",
+                    "price": 500.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "canchánchara",
+                    "price": 450.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "piña colada",
+                    "price": 450.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "aguas nacionales",
+                    "price": 100.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "agua saborizada",
+                    "price": 100.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "agua natural",
+                    "price": 100.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "refresco",
+                    "price": 60.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "jugos de frutas en conserva",
+                    "price": 100.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "jugos de frutas naturales",
+                    "price": 100.0,
+                    "is_alcoholic": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Obelisco",
+        "localization": {
+            "municipality":"MN",
+            "coordinates": {
+                "latitude": 23.084914482920695,
+                "longitude": -82.42430664968636
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": false,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "09:00","end_time": "18:00"},
+            "tuesday": {"start_time": "09:00","end_time": "18:00"},
+            "wednesday": {"start_time": "09:00","end_time": "18:00"},
+            "thursday": {"start_time": "09:00","end_time": "18:00"},
+            "friday": {"start_time": "09:00","end_time": "18:00"},
+            "saturday": {"start_time": "09:00","end_time": "18:00"},
+            "sunday": {"start_time": "09:00","end_time": "18:00"}
+        },
+        "menu": {
+            "food": [
+                {
+                    "name": "bolitas de carne",
+                    "price": 20.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "dados de queso",
+                    "price": 180.0,
+                    "category": "starter"
+                },
+                {
+                    "name": "pan con queso y embutido",
+                    "price": 250.0,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "pizza de queso",
+                    "price": 200.0,
+                    "category": "pasta/pizza"
+                }
+            ],
+            "drinks": [
+                {
+                    "name": "cerveza cristal",
+                    "price": 180.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "vino blanco entre rio",
+                    "price": 160.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "vino blanco",
+                    "price": 160.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cerveza",
+                    "price": 50.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "agua saborizada",
+                    "price": 50.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "agua natural",
+                    "price": 180.0,
+                    "is_alcoholic": false
+                }
+            ]
+        }
+    }
+]

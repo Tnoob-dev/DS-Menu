@@ -1,0 +1,1403 @@
+[
+    {
+        "name": "Adastra",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 23.138974473993713,
+                "longitude": -82.35221005982025
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+                {"name": "Tapas de Bodega", "price": 7600,"category": "starter"},
+                {"name": "Pimiento Piquillo", "price": 3200, "category": "starter"},
+                {"name": "Carpaccio de Pulpo", "price": 3800, "category": "starter"},
+                {"name": "Ensalada Terranea", "price": 2300, "category": "starter"},
+                {"name": "Ceviche de Camaron", "price": 3400, "category": "starter"},
+                {"name": "Tartar de Atun", "price": 4000, "category": "starter"},
+                {"name": "Carpaccio de Res", "price": 4100, "category": "starter"},
+                {"name": "Croquetas del Chef", "price": 1400, "category": "starter"},
+                {"name": "Musaka", "price": 4200, "category": "starter"},
+                {"name": "Crema de Calabaza", "price": 1800, "category": "starter"},
+                {"name": "Osobuco Trufado con Champignoses", "price": 7500, "category": "dishes"},
+                {"name": "Cordero al Vino Tinto y Romero", "price": 5600, "category": "dishes"},
+                {"name": "Cerdo Criollo con Tamal en Cazuela", "price": 5100, "category": "dishes"},
+                {"name": "Filete Mignon", "price": 8200, "category": "dishes"},
+                {"name": "Paleta de Cordero", "price": 9800, "category": "dishes"},
+                {"name": "Pasta Bellahabana", "price": 4300, "category": "pasta/pizza"},
+                {"name": "Rissotto de Vegetales", "price": 3200, "category": "pasta/pizza"},
+                {"name": "Rissotto Cubano", "price": 5300, "category": "pasta/pizza"},
+                {"name": "Rissotto del Mar", "price": 6300, "category": "pasta/pizza"},
+                {"name": "Langosta Islenna", "price": 4800, "category": "dishes"},
+                {"name": "Pulpo con Albahaca y Ajo", "price": 6400, "category": "dishes"},
+                {"name": "Pescado Adastra", "price": 7800, "category": "dishes"},
+                {"name": "Mariscada de la Casa 2 PAX", "price": 10500, "category": "dishes"},
+                {"name": "Pescado Grille", "price": 3800, "category": "dishes"},
+                {"name": "Langosta", "price": 4500, "category": "dishes"},
+                {"name": "Pulpo", "price": 5700, "category": "dishes"},
+                {"name": "Camaron", "price": 5200, "category": "dishes"},
+                {"name": "Arroz Blanco", "price": 700, "category": "food_garnish"},
+                {"name": "Arroz Moro", "price": 850, "category": "food_garnish"},
+                {"name": "Frijoles Negros", "price": 750, "category": "food_garnish"},
+                {"name": "Pure de Vianda", "price": 1100, "category": "food_garnish"},
+                {"name": "Ensalada de Vegetales", "price": 1500, "category": "food_garnish"},
+                {"name": "Vegetales Salteados", "price": 1500, "category": "food_garnish"},
+                {"name": "Cheesecake de Frutas", "price": 1800,"category": "dessert"},
+                {"name": "Torrejas en Almibar", "price": 1400,"category": "dessert"},
+                {"name": "Casquitos de Guayaba", "price": 1000,"category": "dessert"},
+                {"name": "Flan de Calabaza", "price": 1200,"category": "dessert"},
+                {"name": "Postres Cubanos", "price": 1000,"category": "dessert"}
+            ],
+            "drinks": [
+                {"name": "Mojito", "price": 1000 , "is_alcoholic": true},
+                {"name": "Cuba Libre", "price": 1000 , "is_alcoholic": true},
+                {"name": "Cubata", "price": 1250 , "is_alcoholic": true},
+                {"name": "Daiquiri de Sabores", "price": 1160 , "is_alcoholic": true},
+                {"name": "Pinna Colada", "price": 1200 , "is_alcoholic": true},
+                {"name": "Caipirinna", "price": 1000 , "is_alcoholic": true},
+                {"name": "Caipi de Frutas", "price": 1600 , "is_alcoholic": true},
+                {"name": "Canchanchara", "price": 1100 , "is_alcoholic": true},
+                {"name": "Cubanito", "price": 1300 , "is_alcoholic": true},
+                {"name": "Old Fashion", "price": 1750 , "is_alcoholic": true},
+                {"name": "Moscow Mule", "price": 1600 , "is_alcoholic": true},
+                {"name": "Negroni", "price": 1300 , "is_alcoholic": true},
+                {"name": "Martine", "price": 1300 , "is_alcoholic": true},
+                {"name": "Aperol Sprit", "price": 1250 , "is_alcoholic": true},
+                {"name": "Margarita", "price": 1350 , "is_alcoholic": true},
+                {"name": "Sangria", "price": 1500 , "is_alcoholic": true},
+                {"name": "Michelada de la Casa", "price": 1800 , "is_alcoholic": true},
+                {"name": "Michelada con Cerveza Importada", "price": 2200 , "is_alcoholic": true},
+                {"name": "Mimosa", "price": 1500 , "is_alcoholic": true},
+                {"name": "Whisky Sour", "price": 2900 , "is_alcoholic": true},
+                {"name": "Gin Tonic", "price": 1800 , "is_alcoholic": true},
+                {"name": "Gin Tonic Especial", "price": 4000 , "is_alcoholic": true},
+                {"name": "Ron Collins", "price": 1300 , "is_alcoholic": true},
+                {"name": "Tinto de Verano", "price": 1400 , "is_alcoholic": true},
+                {"name": "Espresso Martini", "price": 1200 , "is_alcoholic": true},
+                {"name": "Negroni Sprits", "price": 2400 , "is_alcoholic": true},
+                {"name": "Mijita", "price": 1200 , "is_alcoholic": true},
+                {"name": "Purpura", "price": 1800 , "is_alcoholic": true},
+                {"name": "Passionista", "price": 1750 , "is_alcoholic": true},
+                {"name": "Picara", "price": 1750 , "is_alcoholic": true},
+                {"name": "Iyalodde", "price": 1500 , "is_alcoholic": true},
+                {"name": "Gin Basil", "price": 1800 , "is_alcoholic": true},
+                {"name": "Mula Santiaguera", "price": 2100 , "is_alcoholic": true},
+                {"name": "La Reina Margarita", "price": 1700 , "is_alcoholic": true},
+                {"name": "Limoncello Sprits", "price": 1800 , "is_alcoholic": true},
+                {"name": "Love Cafe", "price": 1300 , "is_alcoholic": true},
+                {"name": "Cerveza Heineken", "price": 1000, "is_alcoholic": true},
+                {"name": "Cerveza Corona", "price": 1000, "is_alcoholic": true},
+                {"name": "Cerveza Cristal", "price": 900, "is_alcoholic": true},
+                {"name": "Cerveza Stella", "price": 850, "is_alcoholic": true},
+                {"name": "Havana Club Especial", "price": 900, "is_alcoholic": true},
+                {"name": "Havana Club Ritual", "price": 750, "is_alcoholic": true},
+                {"name": "Havana Club Reserva", "price": 950, "is_alcoholic": true},
+                {"name": "Havana Club Smoky", "price": 800, "is_alcoholic": true},
+                {"name": "Havana Club 7 annos", "price": 1000, "is_alcoholic": true},
+                {"name": "Havana Club Seleccion Maestro", "price": 1900, "is_alcoholic": true},
+                {"name": "Pacto Navio", "price": 1800, "is_alcoholic": true},
+                {"name": "Flor de Canna", "price": 3000, "is_alcoholic": true},
+                {"name": "Santiago Annejo", "price": 850, "is_alcoholic": true},
+                {"name": "Santiago 8 annos", "price": 1150, "is_alcoholic": true},
+                {"name": "Santiago 11 annos", "price": 2200, "is_alcoholic": true},
+                {"name": "Santiago 12 annos", "price": 2350, "is_alcoholic": true},
+                {"name": "Brugal 1888 Doble Annejo", "price": 4000, "is_alcoholic": true},
+                {"name": "Jugo de estacion", "price": 500, "is_alcoholic": false},
+                {"name": "Jugo de guayaba", "price": 450, "is_alcoholic": false},
+                {"name": "Jugo de tamarindo", "price": 450, "is_alcoholic": false},
+                {"name": "Jugo de melon", "price": 450, "is_alcoholic": false},
+                {"name": "Jugo de pepino", "price": 550, "is_alcoholic": false},
+                {"name": "Limonada Natural", "price": 600, "is_alcoholic": false},
+                {"name": "Agua Natural Nacional", "price": 350, "is_alcoholic": false},
+                {"name": "Agua Gaseada Importada", "price": 660, "is_alcoholic": false},
+                {"name": "Agua Tonica Nacional", "price": 450, "is_alcoholic": false},
+                {"name": "Espresso", "price": 450, "is_alcoholic": false},
+                {"name": "Americano", "price": 450, "is_alcoholic": false},
+                {"name": "Cortado", "price": 650, "is_alcoholic": false},
+                {"name": "Cafe con leche", "price": 850, "is_alcoholic": false},
+                {"name": "Iris Coffee", "price": 1500, "is_alcoholic": false},
+                {"name": "Te con leche", "price": 450, "is_alcoholic": false},
+                {"name": "Capuccino", "price": 950, "is_alcoholic": false},
+                {"name": "Frapuccino", "price": 1000, "is_alcoholic": false},
+                {"name": "Cafe Bombom", "price": 1200, "is_alcoholic": false},
+                {"name": "Carajillo", "price": 1050, "is_alcoholic": false},
+                {"name": "Te", "price": 450, "is_alcoholic": false},
+                {"name": "Coca Cola", "price": 550, "is_alcoholic": false},
+                {"name": "Refresco de limon", "price": 550, "is_alcoholic": false}
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality": "HV",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "percentage_service": {"is_required": false, "value": null},
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "00:00"},
+            "tuesday": {"start_time": "12:00","end_time": "00:00"},
+            "wednesday": {"start_time": "12:00","end_time": "00:00"},
+            "thursday": {"start_time": "12:00","end_time": "00:00"},
+            "friday": {"start_time": "12:00","end_time": "00:00"},
+            "saturday": {"start_time": "12:00","end_time": "00:00"},
+            "sunday": {"start_time": "12:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food":[
+
+            ],
+            "drinks": [
+
+            ]
+        }
+    }
+]
