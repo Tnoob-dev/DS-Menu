@@ -3078,11 +3078,6 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "cochinillo al estilo segoviano",
-                    "price": null,
-                    "category": "dishes"
-                },
-                {
                     "name": "pierna o paletilla de cabrito lechal al horno con patatas panaderas",
                     "price": 9750.0,
                     "category": "dishes"
@@ -3840,26 +3835,6 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "crema rua vieja",
-                    "price": null,
-                    "is_alcoholic": true
-                },
-                {
-                    "name": "crema rua vieja arroz",
-                    "price": null,
-                    "is_alcoholic": true
-                },
-                {
-                    "name": "crema rua vieja chocolate",
-                    "price": null,
-                    "is_alcoholic": true
-                },
-                {
-                    "name": "crema airisbel",
-                    "price": null,
-                    "is_alcoholic": true
-                },
-                {
                     "name": "baileys",
                     "price": 65598.0,
                     "is_alcoholic": true
@@ -3877,11 +3852,6 @@
                 {
                     "name": "mojito",
                     "price": 450.0,
-                    "is_alcoholic": true
-                },
-                {
-                    "name": "dalquiri",
-                    "price": null,
                     "is_alcoholic": true
                 },
                 {
@@ -3922,11 +3892,6 @@
                 {
                     "name": "cubanito",
                     "price": 600.0,
-                    "is_alcoholic": true
-                },
-                {
-                    "name": "chelada",
-                    "price": null,
                     "is_alcoholic": true
                 },
                 {
@@ -7855,11 +7820,6 @@
                 {
                     "name": "jugos naturales",
                     "price": 100,
-                    "is_alcoholic": false
-                },
-                {
-                    "name": "cafe palenque",
-                    "price": null,
                     "is_alcoholic": false
                 },
                 {

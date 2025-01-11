@@ -222,11 +222,6 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "medusa",
-                    "price": null,
-                    "is_alcoholic": true
-                },
-                {
                     "name": "servicio chelada",
                     "price": 450.00,
                     "is_alcoholic": true
@@ -677,31 +672,6 @@
                 {
                     "name": "Arroz Frito Especial",
                     "price": 1800.00,
-                    "category": "dishes"
-                },
-                {
-                    "name": "Camarones al Ajillo",
-                    "price": null,
-                    "category": "dishes"
-                },
-                {
-                    "name": "Camarones Enchilados",
-                    "price": null,
-                    "category": "dishes"
-                },
-                {
-                    "name": "Masas de Cerdo con Salsa Agridulce o Mojito Criollo",
-                    "price": null,
-                    "category": "dishes"
-                },
-                {
-                    "name": "Escalope de Cerdo",
-                    "price": null,
-                    "category": "dishes"
-                },
-                {
-                    "name": "Bistec de Cerdo",
-                    "price": null,
                     "category": "dishes"
                 },
                 {
