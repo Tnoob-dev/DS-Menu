@@ -251,7 +251,7 @@
                 "longitude": -82.36264764949895
             }
         },
-        "cuisine": ["Caribenna", "Latina", "Internacional", "Cubana"],
+        "cuisine": ["Caribenna", "Latina", "Internacional", "Criolla"],
         "services": {
             "a_la_carte": true,
             "reservation": false,
@@ -358,7 +358,7 @@
                 "longitude": -82.36206873376179
             }
         },
-        "cuisine": ["Cocteleria", "Cubana", "Italiana"],
+        "cuisine": ["Cocteleria", "Criolla", "Italiana"],
         "services": {
             "a_la_carte": true,
             "reservation": false,
@@ -495,7 +495,7 @@
                 "longitude": -82.36139565096036
             }
         },
-        "cuisine": ["Criolla", "Internacional", "Cubana"],
+        "cuisine": ["Criolla", "Internacional"],
         "services": {
             "a_la_carte": true,
             "reservation": false,
@@ -571,7 +571,7 @@
                 "longitude": -82.36028647833432
             }
         },
-        "cuisine": ["Italiana", "Americana", "Hindu", "Caribenna", "Asiatica", "Cubana", "Ceilanesa"],
+        "cuisine": ["Italiana", "Americana", "Hindu", "Caribenna", "Asiatica", "Criolla", "Ceilanesa"],
         "services": {
             "a_la_carte": true,
             "reservation": false,
@@ -728,7 +728,7 @@
                 "longitude": -82.36092696447452
             }
         },
-        "cuisine": ["Caribenna", "Latina", "Mediterranea", "Cubana"],
+        "cuisine": ["Caribenna", "Latina", "Mediterranea", "Criolla"],
         "services": {
             "a_la_carte": true,
             "reservation": true,
@@ -1120,7 +1120,7 @@
                 "longitude": -82.3755633828391
             }
         },
-        "cuisine": ["Caribenna", "Mexicana", "Cubana"],
+        "cuisine": ["Caribenna", "Mexicana", "Criolla"],
         "services": {
             "a_la_carte": true,
             "reservation": true,

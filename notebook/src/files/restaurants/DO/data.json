@@ -6669,7 +6669,7 @@
                 "longitude": -82.3746347
             }
         },
-        "cuisine": ["Cubana", "Francesa", "Internacional"],
+        "cuisine": ["Criolla", "Francesa", "Internacional"],
         "services": {
             "a_la_carte": true,
             "reservation": true,
@@ -6905,7 +6905,7 @@
                 "longitude": -82.3758328
             }
         },
-        "cuisine": ["Cocteleria", "Cubana", "Internacional"],
+        "cuisine": ["Cocteleria", "Criolla", "Internacional"],
         "services": {
             "a_la_carte": true,
             "reservation": true,

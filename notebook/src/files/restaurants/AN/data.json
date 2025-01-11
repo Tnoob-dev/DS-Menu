@@ -244,7 +244,7 @@
                 "longitude": -82.358446
             }
         },
-        "cuisine": ["Cubana"],
+        "cuisine": ["Criolla"],
         "services": {
             "a_la_carte": true,
             "reservation": false,
@@ -758,7 +758,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "arroz a la cubana",
+                    "name": "arroz a la Criolla",
                     "price": 1500.0,
                     "category": "dishes"
                 },
@@ -1205,7 +1205,7 @@
                 "longitude": -82.3370485
             }
         },
-        "cuisine": ["Cubana"],
+        "cuisine": ["Criolla"],
         "services": {
             "a_la_carte": true,
             "reservation": true,
@@ -1270,7 +1270,7 @@
                 "longitude": -82.337646
             }
         },
-        "cuisine": ["Cubana"],
+        "cuisine": ["Criolla"],
         "services": {
             "a_la_carte": true,
             "reservation": true,

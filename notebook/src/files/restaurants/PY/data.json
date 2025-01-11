@@ -1720,7 +1720,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "cerdo asado a lo cubana",
+                    "name": "cerdo asado a lo cubano",
                     "price": 8500.0,
                     "category": "dishes"
                 },
@@ -6574,7 +6574,7 @@
                 "longitude": -82.4168705
             }
         },
-        "cuisine": ["Cubana", "Internacional"],
+        "cuisine": ["Criolla", "Internacional"],
         "services": {
             "a_la_carte": true,
             "reservation": false,
@@ -7719,7 +7719,7 @@
                 "longitude": -82.4625362784828
             }
         },
-        "cuisine": ["Caribenna", "Latina", "Internacional", "Cubana"],
+        "cuisine": ["Caribenna", "Latina", "Internacional", "Criolla"],
         "services": {
             "a_la_carte": true,
             "reservation": true,
@@ -7909,7 +7909,7 @@
                 "longitude": -82.44090092922819
             }
         },
-        "cuisine": ["Cubana", "Internacional"],
+        "cuisine": ["Criolla", "Internacional"],
         "service_types": ["A la carta"],
         "payment_methods": ["Efectivo", "Transferencia"],
         "services": {
@@ -10675,7 +10675,7 @@
                 "longitude": -82.41453997132663
             }
         },
-        "cuisine": ["Caribenna", "Internacional", "Espannola", "Cubana"],
+        "cuisine": ["Caribenna", "Internacional", "Espannola", "Criolla"],
         "services": {
             "a_la_carte": true,
             "reservation": true,
@@ -11394,7 +11394,7 @@
                 "longitude": -82.48873679830157
             }
         },
-        "cuisine": ["Japonesa", "Caribenna", "Cubana"],
+        "cuisine": ["Japonesa", "Caribenna", "Criolla"],
         "services": {
             "a_la_carte": true,
             "reservation": true,

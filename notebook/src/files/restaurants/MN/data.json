@@ -2306,5 +2306,279 @@
                 }
             ]
         }
+    },
+    {
+        "name": "Bar Tropicana",
+        "localization": {
+            "municipality":"MN",
+            "coordinates": {
+                "latitude": 23.094572229861818,
+                "longitude": -82.41905037898883
+            }
+        },
+        "cuisine": ["Cocteleria"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": false,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": true,
+                "eur": true
+            }
+        },
+        "schedules": {
+            "monday": {"start_time": "11:00","end_time": "00:00"},
+            "tuesday": {"start_time": "11:00","end_time": "00:00"},
+            "wednesday": {"start_time": "11:00","end_time": "00:00"},
+            "thursday": {"start_time": "11:00","end_time": "00:00"},
+            "friday": {"start_time": "11:00","end_time": "00:00"},
+            "saturday": {"start_time": "11:00","end_time": "00:00"},
+            "sunday": {"start_time": "11:00","end_time": "00:00"}
+        },
+        "menu": {
+            "food": null,
+            "drinks": [
+                {
+                    "name": "cervezas nacionales o importadas",
+                    "price": 200.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cerveza dispensada",
+                    "price": 160.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "copa de vino de la casa",
+                    "price": 300.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "havana club 3 años",
+                    "price": 100.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "especial havana club",
+                    "price": 120.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "havana club 7 años",
+                    "price": 320.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "havana club pacto navio",
+                    "price": 730.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "havana club seleccion de maestros",
+                    "price": 750.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "aguardiente gobernador",
+                    "price": 14300.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "chiva regal 12 años",
+                    "price": 995.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "ballentinees finest",
+                    "price": 500.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "j&b",
+                    "price": 650.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "johnnie walker etiqueta roja",
+                    "price": 550.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "jameson",
+                    "price": 650.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "vat",
+                    "price": 580.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "tequila 3 sombreros",
+                    "price": 300.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "vodka igor",
+                    "price": 395.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "brandy napoleón",
+                    "price": 190.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cremas y licores (cacao)",
+                    "price": 85.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cremas y licores (café)",
+                    "price": 85.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cremas y licores (menta)",
+                    "price": 85.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cremas y licores (marrasquino)",
+                    "price": 85.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cremas y licores (triple sec)",
+                    "price": 85.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cremas y licores (curacao azul)",
+                    "price": 85.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cremas y licores (piña)",
+                    "price": 85.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "daiquiri natural",
+                    "price": 450.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "daiquiri frapeado natural",
+                    "price": 450.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cuba libre",
+                    "price": 730.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cubata",
+                    "price": 700.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "daiquiri mulata",
+                    "price": 620.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "daiquiri saborizado",
+                    "price": 450.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "gin cola",
+                    "price": 750.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "gin tonic",
+                    "price": 785.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "rom tonic",
+                    "price": 550.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "vodka cola",
+                    "price": 600.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "vodka tónica",
+                    "price": 650.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "whisky cola",
+                    "price": 500.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "tropicana special",
+                    "price": 450.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "cocteles internacionales",
+                    "price": 500.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "canchánchara",
+                    "price": 450.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "piña colada",
+                    "price": 450.0,
+                    "is_alcoholic": true
+                },
+                {
+                    "name": "aguas nacionales",
+                    "price": 100.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "agua saborizada",
+                    "price": 100.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "agua natural",
+                    "price": 100.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "refresco",
+                    "price": 60.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "jugos de frutas en conserva",
+                    "price": 100.0,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "jugos de frutas naturales",
+                    "price": 100.0,
+                    "is_alcoholic": false
+                }
+            ]
+        }
     }
 ]
