@@ -7262,8 +7262,8 @@
         "localization": {
             "municipality":"DO",
             "coordinates": {
-                "latitude": 0,
-                "longitude": 0
+                "latitude": 23.0940562,
+                "longitude": -82.3803168
             }
         },
         "cuisine": ["Criolla", "Internacional"],
@@ -7325,8 +7325,8 @@
         "localization": {
             "municipality":"DO",
             "coordinates": {
-                "latitude": 0,
-                "longitude": 0
+                "latitude": 23.0983332,
+                "longitude": -82.3629726
             }
         },
         "cuisine": ["Criolla"],
@@ -7378,8 +7378,8 @@
         "localization": {
             "municipality":"DO",
             "coordinates": {
-                "latitude": 0,
-                "longitude": 0
+                "latitude": 23.1016135,
+                "longitude": -82.3741862
             }
         },
         "cuisine": ["Criolla", "Internacional"],
@@ -7459,8 +7459,8 @@
         "localization": {
             "municipality":"DO",
             "coordinates": {
-                "latitude": 0,
-                "longitude": 0
+                "latitude": 23.0880875,
+                "longitude": -82.3733554
             }
         },
         "cuisine": ["Italiana"],
@@ -7526,8 +7526,8 @@
         "localization": {
             "municipality":"DO",
             "coordinates": {
-                "latitude": 0,
-                "longitude": 0
+                "latitude": 23.0999052,
+                "longitude": -82.3747022
             }
         },
         "cuisine": ["Criolla", "Internacional", "Italiana"],
@@ -7646,8 +7646,8 @@
         "localization": {
             "municipality":"DO",
             "coordinates": {
-                "latitude": 0,
-                "longitude": 0
+                "latitude": 23.1058596,
+                "longitude": -82.3733857
             }
         },
         "cuisine": ["Criolla", "Italiana"],
@@ -7825,8 +7825,8 @@
         "localization": {
             "municipality":"DO",
             "coordinates": {
-                "latitude": 0,
-                "longitude": 0
+                "latitude": 23.1044886,
+                "longitude": -82.3780887
             }
         },
         "cuisine": ["Cocteleria", "Internacional"],
