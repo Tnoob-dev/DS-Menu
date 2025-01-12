@@ -43,17 +43,17 @@
                 {"name": "Tostones rellenos","price": 1200.00, "category": "starter"},
                 {"name": "Coctel de camaron","price": 1800.00, "category": "starter"},
                 {"name": "Coctel de langosta","price": 1800.00, "category": "starter"},
-                {"name": "Pica pica Café Crystal","price": 4400.00, "category": "starter"},
+                {"name": "Pica pica Cafe Crystal","price": 4400.00, "category": "starter"},
                 {"name": "Camarones empanados","price": 2000.00, "category": "starter"},
                 {"name": "Anillas de calamar empanadas","price": 2000.00, "category": "starter"},
                 {"name": "Picadera estrella mar y tierra","price": 8000.00, "category": "starter"},
                 {"name": "Pizza queso gouda","price": 1500.00, "category": "pasta/pizza"},
                 {"name": "Pasta napolitana","price": 1000.00, "category": "pasta/pizza"},
-                {"name": "Pizza Café Crystal","price": 4000.00, "category": "pasta/pizza"},
+                {"name": "Pizza Cafe Crystal","price": 4000.00, "category": "pasta/pizza"},
                 {"name": "Ensalada estacion","price": 700.00, "category": "dishes"},
                 {"name": "Ensalada de atun","price": 1250.00, "category": "dishes"},
-                {"name": "Ensalada Café Crystal","price": 1500.00, "category": "dishes"},
-                {"name": "Termo ensalada fría","price": 2000.00, "category": "dishes"},
+                {"name": "Ensalada Cafe Crystal","price": 1500.00, "category": "dishes"},
+                {"name": "Termo ensalada fria","price": 2000.00, "category": "dishes"},
                 {"name": "Fajitas con reducido de vino tinto y champinnones","price": 2500.00, "category": "dishes"},
                 {"name": "Ropa vieja de res","price": 2200.00, "category": "dishes"},
                 {"name": "Vaca frita","price": 2200.00, "category": "dishes"},
@@ -69,7 +69,7 @@
                 {"name": "Chop Suey","price": 2500.00, "category": "dishes"},
                 {"name": "Filete de pescado","price": 2000.00, "category": "dishes"},
                 {"name": "Pescado Canciller","price": 3000.00, "category": "dishes"},
-                {"name": "Camaron grillé","price": 2800.00, "category": "dishes"},
+                {"name": "Camaron grille","price": 2800.00, "category": "dishes"},
                 {"name": "Camaron al ajillo","price": 2800.00, "category": "dishes"},
                 {"name": "Camaron enchilado","price": 3000.00, "category": "dishes"},
                 {"name": "Cola de langosta","price": 2800.00, "category": "dishes"},
@@ -83,7 +83,7 @@
                 {"name": "Viandas fritas","price": 600.00, "category": "food_garnish"},
                 {"name": "Tostones tradicionales","price": 700.00, "category": "food_garnish"},
                 {"name": "Papas fritas","price": 700.00, "category": "food_garnish"},
-                {"name": "Puré de papas","price": 700.00, "category": "food_garnish"},
+                {"name": "Pure de papas","price": 700.00, "category": "food_garnish"},
                 {"name": "Flan","price": 600.00, "category": "dessert"},
                 {"name": "Copa helado","price": 900.00, "category": "dessert"},
                 {"name": "Copa Lolita","price": 900.00, "category": "dessert"},
@@ -95,20 +95,20 @@
                 {"name": "Cerveza Bucanero","price": 400.00, "is_alcoholic": true},
                 {"name": "Refresco de lata","price": 300.00, "is_alcoholic": false},
                 {"name": "Jugo de caja","price": 300.00, "is_alcoholic": false},
-                {"name": "Refresco línea Coca Cola","price": 400.00, "is_alcoholic": false},
+                {"name": "Refresco linea Coca Cola","price": 400.00, "is_alcoholic": false},
                 {"name": "Malta importada","price": 400.00, "is_alcoholic": false},
                 {"name": "Malteada","price": 700.00, "is_alcoholic": false},
                 {"name": "Batido de helado","price": 900.00, "is_alcoholic": false},
                 {"name": "Agua natural 500ml","price": 300.00, "is_alcoholic": false},
                 {"name": "Energizante","price": 500.00, "is_alcoholic": false},
-                {"name": "Café expreso","price": 250.00, "is_alcoholic": false},
-                {"name": "Café cortado","price": 300.00, "is_alcoholic": false},
-                {"name": "Café capuccino","price": 550.00, "is_alcoholic": false},
-                {"name": "Café frapuccino", "price": 750.00, "is_alcoholic": false},
-                {"name": "Coctelería clásica (Mojito, Ron Collins, Cubalibre, Caipirinna, Caipiroska, Caipirísima)","price": 700.00, "is_alcoholic": true},
+                {"name": "Cafe expreso","price": 250.00, "is_alcoholic": false},
+                {"name": "Cafe cortado","price": 300.00, "is_alcoholic": false},
+                {"name": "Cafe capuccino","price": 550.00, "is_alcoholic": false},
+                {"name": "Cafe frapuccino", "price": 750.00, "is_alcoholic": false},
+                {"name": "Cocteleria clasica (Mojito, Ron Collins, Cubalibre, Caipirinna, Caipiroska, Caipirisima)","price": 700.00, "is_alcoholic": true},
                 {"name": "Base de Chelada","price": 250.00, "is_alcoholic": true},
                 {"name": "Base de Michelada","price": 300.00, "is_alcoholic": true},
-                {"name": "Coctelería internacional (Tequila sunrise, Martini, Pinna colada, Sangría Café Crystal, Margarita, Gin-tonic)","price": 1000.00, "is_alcoholic": true},
+                {"name": "Cocteleria internacional (Tequila sunrise, Martini, Pinna colada, Sangria Cafe Crystal, Margarita, Gin-tonic)","price": 1000.00, "is_alcoholic": true},
                 {"name": "Copa de Vino", "price": 700.00, "is_alcoholic": true},
                 {"name": "Botella de Vino","price": 3500.00, "is_alcoholic": true}
             ]
@@ -361,12 +361,12 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "batido de maní",
+                    "name": "batido de mani",
                     "price": 400.0,
                     "is_alcoholic": false
                 },
                 {
-                    "name": "batido de maní con chocolate",
+                    "name": "batido de mani con chocolate",
                     "price": 450.0,
                     "is_alcoholic": false
                 },
@@ -429,7 +429,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "ensalada fría",
+                    "name": "ensalada fria",
                     "price": 150.0,
                     "category": "starter"
                 },
@@ -624,7 +624,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "tostones atún",
+                    "name": "tostones atun",
                     "price": 350,
                     "category": "starter"
                 },
@@ -649,7 +649,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "ensalada de atún",
+                    "name": "ensalada de atun",
                     "price": 350,
                     "category": "starter"
                 },
@@ -719,7 +719,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "pollo parisién",
+                    "name": "pollo parisien",
                     "price": 1600,
                     "category": "dishes"
                 },
@@ -754,7 +754,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "pollo grillé",
+                    "name": "pollo grille",
                     "price": 800,
                     "category": "dishes"
                 },
@@ -809,7 +809,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "filete de pescado grillé",
+                    "name": "filete de pescado grille",
                     "price": 1050,
                     "category": "dishes"
                 },
@@ -819,7 +819,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "camaron grillé",
+                    "name": "camaron grille",
                     "price": 1600,
                     "category": "dishes"
                 },
@@ -849,7 +849,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "pizza atún",
+                    "name": "pizza atun",
                     "price": 600,
                     "category": "pasta/pizza"
                 },
@@ -859,7 +859,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "pizza ají",
+                    "name": "pizza aji",
                     "price": 550,
                     "category": "pasta/pizza"
                 },
@@ -899,7 +899,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "spaghetti atún",
+                    "name": "spaghetti atun",
                     "price": 500,
                     "category": "pasta/pizza"
                 },
@@ -1156,22 +1156,22 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "café expreso",
+                    "name": "cafe expreso",
                     "price": 250,
                     "is_alcoholic": false
                 },
                 {
-                    "name": "café cortado",
+                    "name": "cafe cortado",
                     "price": 300,
                     "is_alcoholic": false
                 },
                 {
-                    "name": "café capuccino",
+                    "name": "cafe capuccino",
                     "price": 550,
                     "is_alcoholic": false
                 },
                 {
-                    "name": "café frapuccino",
+                    "name": "cafe frapuccino",
                     "price": 750,
                     "is_alcoholic": false
                 }
@@ -1308,7 +1308,7 @@
         }
     },
     {
-        "name": "El Desafío",
+        "name": "El Desafio",
         "localization": {
             "municipality":"CT",
             "coordinates": {
@@ -2008,12 +2008,12 @@
                     "category": "starter"
                 },
                 {
-                    "name": "brocheta olé",
+                    "name": "brocheta ole",
                     "price": 1200,
                     "category": "starter"
                 },
                 {
-                    "name": "croquetas olé olé",
+                    "name": "croquetas ole ole",
                     "price": 500,
                     "category": "starter"
                 },
@@ -2033,7 +2033,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "eperlán",
+                    "name": "eperlan",
                     "price": 1000,
                     "category": "starter"
                 },
@@ -2048,7 +2048,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "entremés",
+                    "name": "entremes",
                     "price": 1000,
                     "category": "starter"
                 },
@@ -2073,7 +2073,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "filete de pescado a la vizcaína",
+                    "name": "filete de pescado a la vizcaina",
                     "price": 1700,
                     "category": "dishes"
                 },
@@ -2093,7 +2093,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "lomo de pescado a la vizcaína",
+                    "name": "lomo de pescado a la vizcaina",
                     "price": 1750,
                     "category": "dishes"
                 },
@@ -2380,7 +2380,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "cerveza sureña",
+                    "name": "cerveza surenna",
                     "price": 210,
                     "is_alcoholic": true
                 },
@@ -2410,7 +2410,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "caipiriña",
+                    "name": "caipirinna",
                     "price": 450,
                     "is_alcoholic": true
                 },
@@ -2490,7 +2490,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "piña colada",
+                    "name": "pinna colada",
                     "price": 650,
                     "is_alcoholic": true
                 },
@@ -2570,12 +2570,12 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "ron santiago 11 años",
+                    "name": "ron santiago 11 annos",
                     "price": 800,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "havana club 7 años añejo",
+                    "name": "havana club 7 annos annejo",
                     "price": 410,
                     "is_alcoholic": true
                 },

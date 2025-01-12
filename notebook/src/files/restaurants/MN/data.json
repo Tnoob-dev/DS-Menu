@@ -299,7 +299,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "filete migñon",
+                    "name": "filete mignnon",
                     "price": 3000.0,
                     "category": "dishes"
                 },
@@ -568,7 +568,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "cóctel de camarones",
+                    "name": "coctel de camarones",
                     "price": 1670.0,
                     "category": "starter"
                 },
@@ -578,22 +578,22 @@
                     "category": "starter"
                 },
                 {
-                    "name": "ensalada fría de jamón",
+                    "name": "ensalada fria de jamon",
                     "price": 835.0,
                     "category": "starter"
                 },
                 {
-                    "name": "ensalada fría de pollo",
+                    "name": "ensalada fria de pollo",
                     "price": 865.0,
                     "category": "starter"
                 },
                 {
-                    "name": "ensalada fría de atún",
+                    "name": "ensalada fria de atun",
                     "price": 995.0,
                     "category": "starter"
                 },
                 {
-                    "name": "ensalada fría de marisco",
+                    "name": "ensalada fria de marisco",
                     "price": 1125.0,
                     "category": "starter"
                 },
@@ -643,7 +643,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "sandwich de jamón y queso",
+                    "name": "sandwich de jamon y queso",
                     "price": 765.0,
                     "category": "dishes"
                 },
@@ -653,7 +653,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "sandwich de atún y cebolla",
+                    "name": "sandwich de atun y cebolla",
                     "price": 1945.0,
                     "category": "dishes"
                 },
@@ -733,7 +733,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "pizza de jamón",
+                    "name": "pizza de jamon",
                     "price": 2115.0,
                     "category": "pasta/pizza"
                 },
@@ -743,7 +743,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "pizza de bacon, pepperoni y jamón serrano",
+                    "name": "pizza de bacon, pepperoni y jamon serrano",
                     "price": 2845.0,
                     "category": "pasta/pizza"
                 },
@@ -763,12 +763,12 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "espaguetis con jamón",
+                    "name": "espaguetis con jamon",
                     "price": 1145.0,
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "espaguetis a la boloñesa",
+                    "name": "espaguetis a la bolonnesa",
                     "price": 1800.0,
                     "category": "pasta/pizza"
                 },
@@ -788,7 +788,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "lasagna boloñesa",
+                    "name": "lasagna bolonnesa",
                     "price": 2245.0,
                     "category": "pasta/pizza"
                 },
@@ -808,7 +808,7 @@
                     "category": "dessert"
                 },
                 {
-                    "name": "churros acompañado de chocolate caliente",
+                    "name": "churros acompannado de chocolate caliente",
                     "price": 700.0,
                     "category": "dessert"
                 }
@@ -830,7 +830,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "caipiriña",
+                    "name": "caipirinna",
                     "price": 495.0,
                     "is_alcoholic": true
                 },
@@ -865,7 +865,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "piña colada",
+                    "name": "pinna colada",
                     "price": 660.0,
                     "is_alcoholic": true
                 },
@@ -875,7 +875,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "sangría especial 5.1",
+                    "name": "sangria especial 5.1",
                     "price": 720.0,
                     "is_alcoholic": true
                 },
@@ -890,7 +890,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "café express",
+                    "name": "cafe express",
                     "price": 250.0,
                     "is_alcoholic": false
                 },
@@ -1233,12 +1233,12 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "enchilado de camarón",
+                    "name": "enchilado de camaron",
                     "price": 1400.0,
                     "category": "dishes"
                 },
                 {
-                    "name": "camarón al ajillo",
+                    "name": "camaron al ajillo",
                     "price": 1700.0,
                     "category": "dishes"
                 },
@@ -1273,7 +1273,7 @@
                     "category": "food_garnish"
                 },
                 {
-                    "name": "arroz congrí",
+                    "name": "arroz congri",
                     "price": 300.0,
                     "category": "food_garnish"
                 },
@@ -1308,7 +1308,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "pizzas bacón",
+                    "name": "pizzas bacon",
                     "price": 1650.0,
                     "category": "pasta/pizza"
                 },
@@ -1328,12 +1328,12 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "pizzas atún",
+                    "name": "pizzas atun",
                     "price": 1650.0,
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "pizzas camarón",
+                    "name": "pizzas camaron",
                     "price": 1350.0,
                     "category": "pasta/pizza"
                 },
@@ -1353,7 +1353,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "lasagna boloñesa",
+                    "name": "lasagna bolonnesa",
                     "price": 1700.0,
                     "category": "pasta/pizza"
                 },
@@ -1995,7 +1995,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "havana club 3 años",
+                    "name": "havana club 3 annos",
                     "price": 100.0,
                     "is_alcoholic": true
                 },
@@ -2005,7 +2005,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "havana club 7 años",
+                    "name": "havana club 7 annos",
                     "price": 320.0,
                     "is_alcoholic": true
                 },
@@ -2025,7 +2025,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "chiva regal 12 años",
+                    "name": "chiva regal 12 annos",
                     "price": 995.0,
                     "is_alcoholic": true
                 },
@@ -2065,7 +2065,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "brandy napoleón",
+                    "name": "brandy napoleon",
                     "price": 190.0,
                     "is_alcoholic": true
                 },
@@ -2075,7 +2075,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "cremas y licores (café)",
+                    "name": "cremas y licores (cafe)",
                     "price": 85.0,
                     "is_alcoholic": true
                 },
@@ -2100,7 +2100,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "cremas y licores (piña)",
+                    "name": "cremas y licores (pinna)",
                     "price": 85.0,
                     "is_alcoholic": true
                 },
@@ -2155,7 +2155,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "vodka tónica",
+                    "name": "vodka tonica",
                     "price": 650.0,
                     "is_alcoholic": true
                 },
@@ -2175,12 +2175,12 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "canchánchara",
+                    "name": "canchanchara",
                     "price": 450.0,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "piña colada",
+                    "name": "pinna colada",
                     "price": 450.0,
                     "is_alcoholic": true
                 },
@@ -2359,7 +2359,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "havana club 3 años",
+                    "name": "havana club 3 annos",
                     "price": 100.0,
                     "is_alcoholic": true
                 },
@@ -2369,7 +2369,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "havana club 7 años",
+                    "name": "havana club 7 annos",
                     "price": 320.0,
                     "is_alcoholic": true
                 },
@@ -2389,7 +2389,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "chiva regal 12 años",
+                    "name": "chiva regal 12 annos",
                     "price": 995.0,
                     "is_alcoholic": true
                 },
@@ -2429,7 +2429,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "brandy napoleón",
+                    "name": "brandy napoleon",
                     "price": 190.0,
                     "is_alcoholic": true
                 },
@@ -2439,7 +2439,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "cremas y licores (café)",
+                    "name": "cremas y licores (cafe)",
                     "price": 85.0,
                     "is_alcoholic": true
                 },
@@ -2464,7 +2464,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "cremas y licores (piña)",
+                    "name": "cremas y licores (pinna)",
                     "price": 85.0,
                     "is_alcoholic": true
                 },
@@ -2519,7 +2519,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "vodka tónica",
+                    "name": "vodka tonica",
                     "price": 650.0,
                     "is_alcoholic": true
                 },
@@ -2539,12 +2539,12 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "canchánchara",
+                    "name": "canchanchara",
                     "price": 450.0,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "piña colada",
+                    "name": "pinna colada",
                     "price": 450.0,
                     "is_alcoholic": true
                 },

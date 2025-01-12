@@ -55,7 +55,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "Mano del Dragón",
+                    "name": "Mano del Dragon",
                     "price": 2080,
                     "category": "starter"
                 },
@@ -65,7 +65,7 @@
                     "category": "starter"
                 }, 
                 {
-                    "name": "Dragón del mar",
+                    "name": "Dragon del mar",
                     "price": 2400,
                     "category": "starter"
                 },
@@ -142,12 +142,12 @@
             ],
             "drinks": [
                 {
-                    "name": "Daiquirí",
+                    "name": "Daiquiri",
                     "price": 900,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "Daiquirí de fruta",
+                    "name": "Daiquiri de fruta",
                     "price": 1100,
                     "is_alcoholic": true
                 },
@@ -192,7 +192,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "Caipirísima",
+                    "name": "Caipirisima",
                     "price": 900,
                     "is_alcoholic": true
                 },
@@ -202,7 +202,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "Canchánchara",
+                    "name": "Canchanchara",
                     "price": 900,
                     "is_alcoholic": true
                 },
@@ -312,7 +312,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "Licor de Café",
+                    "name": "Licor de Cafe",
                     "price": 740,
                     "is_alcoholic": true
                 },
@@ -342,7 +342,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "Ron Havana Club Pacto Navío",
+                    "name": "Ron Havana Club Pacto Navio",
                     "price": 2000,
                     "is_alcoholic": true
                 },
@@ -382,7 +382,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "Ron selección de Maestros",
+                    "name": "Ron seleccion de Maestros",
                     "price": 3300,
                     "is_alcoholic": true
                 }
@@ -425,7 +425,7 @@
         "menu": {
             "food":[
                 {
-                    "name": "pan con jamón y queso",
+                    "name": "pan con jamon y queso",
                     "price": 350.0,
                     "category": "hamburger/sandwich"
                 },
@@ -435,7 +435,7 @@
                     "category": "hamburger/sandwich"
                 },
                 {
-                    "name": "pan con lechón",
+                    "name": "pan con lechon",
                     "price": 500.0,
                     "category": "hamburger/sandwich"
                 },
@@ -450,7 +450,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "picadera de jamón y queso",
+                    "name": "picadera de jamon y queso",
                     "price": 450.0,
                     "category": "starter"
                 },
@@ -562,7 +562,7 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "cafe bombón",
+                    "name": "cafe bombon",
                     "price": 150.0,
                     "is_alcoholic": false
                 },
@@ -630,7 +630,7 @@
         "menu": {
             "food":[
                 {
-                    "name": "baguette jamón y queso",
+                    "name": "baguette jamon y queso",
                     "price": 700.0,
                     "category": "hamburger/sandwich"
                 },
@@ -640,7 +640,7 @@
                     "category": "hamburger/sandwich"
                 },
                 {
-                    "name": "croissant jamón y queso",
+                    "name": "croissant jamon y queso",
                     "price": 900.0,
                     "category": "hamburger/sandwich"
                 },
@@ -672,7 +672,7 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "bombón",
+                    "name": "bombon",
                     "price": 250.0,
                     "is_alcoholic": false
                 },
@@ -687,7 +687,7 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "batido de frutos del bosque/plátano",
+                    "name": "batido de frutos del bosque/platano",
                     "price": 600.0,
                     "is_alcoholic": false
                 },
@@ -745,12 +745,12 @@
                     "category": "starter"
                 },
                 {
-                    "name": "bruschettas con atún, carne o ropa vieja",
+                    "name": "bruschettas con atun, carne o ropa vieja",
                     "price": 930.0,
                     "category": "starter"
                 },
                 {
-                    "name": "entremés de queso, jamón y bruschettas",
+                    "name": "entremes de queso, jamon y bruschettas",
                     "price": 1180.0,
                     "category": "starter"
                 },
@@ -800,12 +800,12 @@
                     "category": "hamburger/sandwich"
                 },
                 {
-                    "name": "sandwich de lechón asado",
+                    "name": "sandwich de lechon asado",
                     "price": 1200.0,
                     "category": "hamburger/sandwich"
                 },
                 {
-                    "name": "sandwich de atún",
+                    "name": "sandwich de atun",
                     "price": 1600.0,
                     "category": "hamburger/sandwich"
                 },
@@ -860,7 +860,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "lasagna de jamón",
+                    "name": "lasagna de jamon",
                     "price": 1750.0,
                     "category": "pasta/pizza"
                 },
@@ -885,7 +885,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "media ración de spaghettis, más media ración de lasagna",
+                    "name": "media racion de spaghettis, mas media racion de lasagna",
                     "price": 1500.0,
                     "category": "pasta/pizza"
                 },
@@ -900,7 +900,7 @@
                     "category": "dessert"
                 },
                 {
-                    "name": "postre del día",
+                    "name": "postre del dia",
                     "price": 780.0,
                     "category": "dessert"
                 },
@@ -915,7 +915,7 @@
                     "category": "dessert"
                 },
                 {
-                    "name": "media ración de torrejas",
+                    "name": "media racion de torrejas",
                     "price": 360.0,
                     "category": "dessert"
                 },
@@ -947,17 +947,17 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "caipiriña",
+                    "name": "caipirinna",
                     "price": 750.0,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "daiquirí",
+                    "name": "daiquiri",
                     "price": 750.0,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "sangría",
+                    "name": "sangria",
                     "price": 750.0,
                     "is_alcoholic": true
                 },
@@ -967,17 +967,17 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "mojito frappé",
+                    "name": "mojito frappe",
                     "price": 750.0,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "café con ron",
+                    "name": "cafe con ron",
                     "price": 280.0,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "café con licor",
+                    "name": "cafe con licor",
                     "price": 280.0,
                     "is_alcoholic": true
                 },
@@ -987,7 +987,7 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "limonada frappé",
+                    "name": "limonada frappe",
                     "price": 620.0,
                     "is_alcoholic": false
                 },
@@ -1027,22 +1027,22 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "café expreso",
+                    "name": "cafe expreso",
                     "price": 180.0,
                     "is_alcoholic": false
                 },
                 {
-                    "name": "café cortado",
+                    "name": "cafe cortado",
                     "price": 200.0,
                     "is_alcoholic": false
                 },
                 {
-                    "name": "café capuchino",
+                    "name": "cafe capuchino",
                     "price": 280.0,
                     "is_alcoholic": false
                 },
                 {
-                    "name": "café con leche",
+                    "name": "cafe con leche",
                     "price": 280.0,
                     "is_alcoholic": false
                 }
@@ -1125,22 +1125,22 @@
                     "category": "starter"
                 },
                 {
-                    "name": "sándwich jamón y queso",
+                    "name": "sandwich jamon y queso",
                     "price": 800.0,
                     "category": "hamburger/sandwich"
                 },
                 {
-                    "name": "sándwich jamón",
+                    "name": "sandwich jamon",
                     "price": 750.0,
                     "category": "hamburger/sandwich"
                 },
                 {
-                    "name": "sándwich queso",
+                    "name": "sandwich queso",
                     "price": 750.0,
                     "category": "hamburger/sandwich"
                 },
                 {
-                    "name": "pan con lechón",
+                    "name": "pan con lechon",
                     "price": 1000.0,
                     "category": "hamburger/sandwich"
                 }
@@ -1172,7 +1172,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "caipiriña",
+                    "name": "caipirinna",
                     "price": 400.0,
                     "is_alcoholic": true
                 },
@@ -1182,12 +1182,12 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "caipirísima",
+                    "name": "caipirisima",
                     "price": 400.0,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "canchánchara",
+                    "name": "canchanchara",
                     "price": 450.0,
                     "is_alcoholic": true
                 },
@@ -1207,7 +1207,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "piña colada",
+                    "name": "pinna colada",
                     "price": 700.0,
                     "is_alcoholic": true
                 },
@@ -1227,32 +1227,32 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "cubata con 7 años",
+                    "name": "cubata con 7 annos",
                     "price": 800.0,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "línea black tears",
+                    "name": "linea black tears",
                     "price": 350.0,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "línea 7 años",
+                    "name": "linea 7 annos",
                     "price": 600.0,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "línea smoky",
+                    "name": "linea smoky",
                     "price": 700.0,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "línea santiago",
+                    "name": "linea santiago",
                     "price": 900.0,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "línea reserva",
+                    "name": "linea reserva",
                     "price": 400.0,
                     "is_alcoholic": true
                 },
@@ -1297,7 +1297,7 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "café expreso",
+                    "name": "cafe expreso",
                     "price": 150.0,
                     "is_alcoholic": false
                 },
@@ -1312,7 +1312,7 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "fráppuccino",
+                    "name": "frappuccino",
                     "price": 350.0,
                     "is_alcoholic": false
                 },
@@ -1375,7 +1375,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "bolitas de queso/jamón",
+                    "name": "bolitas de queso/jamon",
                     "price": 500.0,
                     "category": "starter"
                 },
@@ -1410,7 +1410,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "ración yuca/mojo",
+                    "name": "racion yuca/mojo",
                     "price": 250.0,
                     "category": "starter"
                 },
@@ -1420,7 +1420,7 @@
                     "category": "hamburger/sandwich"
                 },
                 {
-                    "name": "hamburguesa doña lis/vianda frita",
+                    "name": "hamburguesa donna lis/vianda frita",
                     "price": 1000.0,
                     "category": "hamburger/sandwich"
                 },
@@ -1430,17 +1430,17 @@
                     "category": "hamburger/sandwich"
                 },
                 {
-                    "name": "sándwich atún/vianda frita",
+                    "name": "sandwich atun/vianda frita",
                     "price": 650.0,
                     "category": "hamburger/sandwich"
                 },
                 {
-                    "name": "sándwich jamón y queso/vianda frita",
+                    "name": "sandwich jamon y queso/vianda frita",
                     "price": 550.0,
                     "category": "hamburger/sandwich"
                 },
                 {
-                    "name": "sándwich pollo y vegetales/vianda frita",
+                    "name": "sandwich pollo y vegetales/vianda frita",
                     "price": 650.0,
                     "category": "hamburger/sandwich"
                 },
@@ -1465,7 +1465,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "pechuga grillé",
+                    "name": "pechuga grille",
                     "price": 800.0,
                     "category": "dishes"
                 },
@@ -1490,7 +1490,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "filete de pescado grillé",
+                    "name": "filete de pescado grille",
                     "price": 900.0,
                     "category": "dishes"
                 },
@@ -1510,7 +1510,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "pizza doña lis",
+                    "name": "pizza donna lis",
                     "price": 1400.0,
                     "category": "pasta/pizza"
                 },
@@ -1525,7 +1525,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "lasaña",
+                    "name": "lasanna",
                     "price": 800.0,
                     "category": "pasta/pizza"
                 },
@@ -1592,7 +1592,7 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "limonada frappé",
+                    "name": "limonada frappe",
                     "price": 300.0,
                     "is_alcoholic": false
                 },
@@ -1675,7 +1675,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "ricepaper roll de camarón o langosta o pulpo o pescado",
+                    "name": "ricepaper roll de camaron o langosta o pulpo o pescado",
                     "price": 1400.0,
                     "category": "starter"
                 },
@@ -1815,7 +1815,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "tacos de camarón",
+                    "name": "tacos de camaron",
                     "price": 1600.0,
                     "category": "dishes"
                 },
@@ -1840,7 +1840,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "camarón flameado",
+                    "name": "camaron flameado",
                     "price": 2500.0,
                     "category": "dishes"
                 },
@@ -1855,7 +1855,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "grillada asiática",
+                    "name": "grillada asiatica",
                     "price": 4000.0,
                     "category": "dishes"
                 },
@@ -1875,7 +1875,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "bocados de tempura camarón",
+                    "name": "bocados de tempura camaron",
                     "price": 2500.0,
                     "category": "dishes"
                 },
@@ -1895,7 +1895,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "yaki toris camarón",
+                    "name": "yaki toris camaron",
                     "price": 2500.0,
                     "category": "dishes"
                 },
@@ -1915,7 +1915,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "teriyakis camarón",
+                    "name": "teriyakis camaron",
                     "price": 2600.0,
                     "category": "dishes"
                 },
@@ -1935,7 +1935,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "yakisobas camarón",
+                    "name": "yakisobas camaron",
                     "price": 2000.0,
                     "category": "dishes"
                 },
@@ -1955,7 +1955,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "chow mein camarón",
+                    "name": "chow mein camaron",
                     "price": 2000.0,
                     "category": "dishes"
                 },
@@ -1975,7 +1975,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "chop suey camarón",
+                    "name": "chop suey camaron",
                     "price": 2000.0,
                     "category": "dishes"
                 },
@@ -2007,22 +2007,22 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "hc 7 años",
+                    "name": "hc 7 annos",
                     "price": 600.0,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "selección de maestros",
+                    "name": "seleccion de maestros",
                     "price": 750.0,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "pacto navío",
+                    "name": "pacto navio",
                     "price": 750.0,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "santiago añejo",
+                    "name": "santiago annejo",
                     "price": 550.0,
                     "is_alcoholic": true
                 },
@@ -2092,7 +2092,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "piña colada",
+                    "name": "pinna colada",
                     "price": 850.0,
                     "is_alcoholic": true
                 },
@@ -2260,7 +2260,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": " shawarma árabe",
+                    "name": " shawarma arabe",
                     "price": 1520,
                     "category": "dishes"
                 },
@@ -2497,17 +2497,17 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "daiquirí",
+                    "name": "daiquiri",
                     "price": 700.0,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "daiquirí de sabores",
+                    "name": "daiquiri de sabores",
                     "price": 750.0,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "caipiriña",
+                    "name": "caipirinna",
                     "price": 600.0,
                     "is_alcoholic": true
                 },
@@ -2517,12 +2517,12 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "caipirísima",
+                    "name": "caipirisima",
                     "price": 650.0,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "piña colada",
+                    "name": "pinna colada",
                     "price": 700.0,
                     "is_alcoholic": true
                 },
@@ -2537,7 +2537,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "sangría",
+                    "name": "sangria",
                     "price": 1100.0,
                     "is_alcoholic": true
                 },
@@ -2597,7 +2597,7 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "frappé",
+                    "name": "frappe",
                     "price": 500.0,
                     "is_alcoholic": false
                 },
@@ -2612,7 +2612,7 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "tónica",
+                    "name": "tonica",
                     "price": 500.0,
                     "is_alcoholic": false
                 },
@@ -2670,7 +2670,7 @@
         "menu": {
             "food":[
                 {
-                    "name": "picada bodegón",
+                    "name": "picada bodegon",
                     "price": 2000,
                     "category": "starter"
                 },
@@ -2740,12 +2740,12 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "charcutería artesanal",
+                    "name": "charcuteria artesanal",
                     "price": 2500,
                     "category": "dishes"
                 },
                 {
-                    "name": "filete de cerdo a las brasas del carbón",
+                    "name": "filete de cerdo a las brasas del carbon",
                     "price": 3500,
                     "category": "dishes"
                 },
@@ -2755,7 +2755,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "a las brasas del carbón 1 kg de cerdo asado",
+                    "name": "a las brasas del carbon 1 kg de cerdo asado",
                     "price": 9000,
                     "category": "dishes"
                 },
@@ -2765,12 +2765,12 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "ración de cerdo asado",
+                    "name": "racion de cerdo asado",
                     "price": 2500,
                     "category": "dishes"
                 },
                 {
-                    "name": "chuleta de cerdo al carbón",
+                    "name": "chuleta de cerdo al carbon",
                     "price": 2500,
                     "category": "dishes"
                 },
@@ -2820,7 +2820,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "chilindrón de cordero",
+                    "name": "chilindron de cordero",
                     "price": 3500,
                     "category": "dishes"
                 },
@@ -2840,7 +2840,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "pizza de jamón",
+                    "name": "pizza de jamon",
                     "price": 2000,
                     "category": "pasta/pizza"
                 },
@@ -2870,12 +2870,12 @@
                     "category": "dessert"
                 },
                 {
-                    "name": "dulce de frutabomba en almíbar con queso",
+                    "name": "dulce de frutabomba en almibar con queso",
                     "price": 600,
                     "category": "dessert"
                 },
                 {
-                    "name": "buñuelos de la abuela",
+                    "name": "bunnuelos de la abuela",
                     "price": 450,
                     "category": "dessert"
                 },
@@ -2892,22 +2892,22 @@
             ],
             "drinks": [
                 {
-                    "name": "mojito bodegón",
+                    "name": "mojito bodegon",
                     "price": 650,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "cuba libre bodegón",
+                    "name": "cuba libre bodegon",
                     "price": 600,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "cubata bodegón",
+                    "name": "cubata bodegon",
                     "price": 750,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "daiquirí frappé o natural",
+                    "name": "daiquiri frappe o natural",
                     "price": 650,
                     "is_alcoholic": true
                 },
@@ -2922,7 +2922,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "canchánchara",
+                    "name": "canchanchara",
                     "price": 600,
                     "is_alcoholic": true
                 },
@@ -2937,7 +2937,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "sangría",
+                    "name": "sangria",
                     "price": 800,
                     "is_alcoholic": true
                 },
@@ -2947,7 +2947,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "caipirísima",
+                    "name": "caipirisima",
                     "price": 650,
                     "is_alcoholic": true
                 },
@@ -2977,7 +2977,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "limonada frappé",
+                    "name": "limonada frappe",
                     "price": 550,
                     "is_alcoholic": false
                 },
@@ -3007,7 +3007,7 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "agua tónica ciego montero",
+                    "name": "agua tonica ciego montero",
                     "price": 250,
                     "is_alcoholic": false
                 },
@@ -3027,7 +3027,7 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "café con leche",
+                    "name": "cafe con leche",
                     "price": 350,
                     "is_alcoholic": false
                 },

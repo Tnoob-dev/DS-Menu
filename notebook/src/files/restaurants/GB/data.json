@@ -120,7 +120,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "PIZZA JAMÓN",
+                    "name": "PIZZA JAMoN",
                     "price": 900.00,
                     "category": "pasta/pizza"
                 },
@@ -130,7 +130,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "Spaguetti de Jamón",
+                    "name": "Spaguetti de Jamon",
                     "price": 850.00,
                     "category": "pasta/pizza"
                 }
@@ -174,12 +174,12 @@
         "menu": {
             "food":[
                 {
-                    "name": "toston relleno de jamón y queso",
+                    "name": "toston relleno de jamon y queso",
                     "price": 450.0,
                     "category": "starter"
                 },
                 {
-                    "name": "toston relleno de atún y queso",
+                    "name": "toston relleno de atun y queso",
                     "price": 600.0,
                     "category": "starter"
                 },
@@ -189,12 +189,12 @@
                     "category": "starter"
                 },
                 {
-                    "name": "ensaladas frias de jamón",
+                    "name": "ensaladas frias de jamon",
                     "price": 500.0,
                     "category": "starter"
                 },
                 {
-                    "name": "ensalada fria de atún",
+                    "name": "ensalada fria de atun",
                     "price": 650.0,
                     "category": "starter"
                 },
@@ -519,7 +519,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "tacos de jamón",
+                    "name": "tacos de jamon",
                     "price": 1030.0,
                     "category": "starter"
                 },
@@ -549,7 +549,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "pizza de jamón",
+                    "name": "pizza de jamon",
                     "price": 1100.0,
                     "category": "pasta/pizza"
                 },
@@ -564,7 +564,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "pizza de bacón",
+                    "name": "pizza de bacon",
                     "price": 1240.0,
                     "category": "pasta/pizza"
                 },
@@ -574,7 +574,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "pizza de camarón",
+                    "name": "pizza de camaron",
                     "price": 1700.0,
                     "category": "pasta/pizza"
                 },
@@ -584,12 +584,12 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "pizza de atún con cebolla",
+                    "name": "pizza de atun con cebolla",
                     "price": 1450.0,
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "pizza de jamón serrano",
+                    "name": "pizza de jamon serrano",
                     "price": 1570.0,
                     "category": "pasta/pizza"
                 },
@@ -604,7 +604,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "Spaguetti boloñesa",
+                    "name": "Spaguetti bolonnsa",
                     "price": 1350.0,
                     "category": "pasta/pizza"
                 },
@@ -619,7 +619,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "Spaguetti de atún",
+                    "name": "Spaguetti de atun",
                     "price": 1270.0,
                     "category": "pasta/pizza"
                 },
@@ -696,7 +696,7 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "tigón",
+                    "name": "tigon",
                     "price": 300.0,
                     "is_alcoholic": false
                 },
@@ -749,12 +749,12 @@
         "menu": {
             "food":[
                 {
-                    "name": "ensalada fria de jamón",
+                    "name": "ensalada fria de jamon",
                     "price": 500.0,
                     "category": "starter"
                 },
                 {
-                    "name": "ensalada fria de atún",
+                    "name": "ensalada fria de atun",
                     "price": 700.0,
                     "category": "starter"
                 },
@@ -789,7 +789,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "cóctel de camarón",
+                    "name": "coctel de camaron",
                     "price": 1200.0,
                     "category": "starter"
                 },
@@ -809,7 +809,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "medio pollo al carbón con bbq",
+                    "name": "medio pollo al carbon con bbq",
                     "price": 2500.0,
                     "category": "dishes"
                 },
@@ -834,17 +834,17 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "camarón al gusto",
+                    "name": "camaron al gusto",
                     "price": 2500.0,
                     "category": "dishes"
                 },
                 {
-                    "name": "chuleta de cerdo al carbón con bbq 1 libra",
+                    "name": "chuleta de cerdo al carbon con bbq 1 libra",
                     "price": 3600.0,
                     "category": "dishes"
                 },
                 {
-                    "name": "solomillo de cerdo al carbón con bbq 1 libra",
+                    "name": "solomillo de cerdo al carbon con bbq 1 libra",
                     "price": 3000.0,
                     "category": "dishes"
                 },
@@ -876,12 +876,12 @@
             ],
             "drinks": [
                 {
-                    "name": "ron selección de maestros",
+                    "name": "ron seleccion de maestros",
                     "price": 900.0,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "ron añejo especial",
+                    "name": "ron annjo especial",
                     "price": 350.0,
                     "is_alcoholic": true
                 },
@@ -896,7 +896,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "ron 3 años",
+                    "name": "ron 3 anns",
                     "price": 350.0,
                     "is_alcoholic": true
                 },
@@ -906,7 +906,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "ron 7 años",
+                    "name": "ron 7 anns",
                     "price": 350.0,
                     "is_alcoholic": true
                 },
@@ -1016,7 +1016,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "piña colada",
+                    "name": "pinn colada",
                     "price": 550.0,
                     "is_alcoholic": true
                 },
@@ -1179,7 +1179,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "sandwich de queso jamón especial",
+                    "name": "sandwich de queso jamon especial",
                     "price": 600.0,
                     "category": "dishes"
                 },
@@ -1379,12 +1379,12 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "camarón grille",
+                    "name": "camaron grille",
                     "price": 1800.0,
                     "category": "dishes"
                 },
                 {
-                    "name": "enchilado camarón",
+                    "name": "enchilado camaron",
                     "price": 1850.0,
                     "category": "dishes"
                 },
@@ -1424,7 +1424,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "espagueti con jamón",
+                    "name": "espagueti con jamon",
                     "price": 900.0,
                     "category": "pasta/pizza"
                 },
@@ -1534,7 +1534,7 @@
         "menu": {
             "food":[
                 {
-                    "name": "tostones rellenos de jamón y queso",
+                    "name": "tostones rellenos de jamon y queso",
                     "price": 1090.0,
                     "category": "starter"
                 },
@@ -1584,7 +1584,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "lomo ahumado (con salsa de piña)",
+                    "name": "lomo ahumado (con salsa de pinn)",
                     "price": 2000.0,
                     "category": "dishes"
                 },
@@ -1614,7 +1614,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "filete de pescado route 66 (a la plancha gratinado con queso y camarón)",
+                    "name": "filete de pescado route 66 (a la plancha gratinado con queso y camaron)",
                     "price": 3550.0,
                     "category": "dishes"
                 },
@@ -1649,12 +1649,12 @@
                     "category": "food_garnish"
                 },
                 {
-                    "name": "puré de malanga",
+                    "name": "pure de malanga",
                     "price": 335.0,
                     "category": "food_garnish"
                 },
                 {
-                    "name": "ensalada mixta de estación",
+                    "name": "ensalada mixta de estacion",
                     "price": 425.0,
                     "category": "food_garnish"
                 },
@@ -1759,12 +1759,12 @@
         "menu": {
             "food":[
                 {
-                    "name": "ración de chicharrón",
+                    "name": "racion de chicharron",
                     "price": 150.0,
                     "category": "starter"
                 },
                 {
-                    "name": "ración de empella",
+                    "name": "racion de empella",
                     "price": 100.0,
                     "category": "starter"
                 },
@@ -1774,27 +1774,27 @@
                     "category": "starter"
                 },
                 {
-                    "name": "ración de tostones",
+                    "name": "racion de tostones",
                     "price": 80.0,
                     "category": "starter"
                 },
                 {
-                    "name": "ración de mariquitas",
+                    "name": "racion de mariquitas",
                     "price": 80.0,
                     "category": "starter"
                 },
                 {
-                    "name": "plátano maduro frito",
+                    "name": "platano maduro frito",
                     "price": 80.0,
                     "category": "starter"
                 },
                 {
-                    "name": "bistec de hígado",
+                    "name": "bistec de higado",
                     "price": 400.0,
                     "category": "dishes"
                 },
                 {
-                    "name": "hígado a la italiana",
+                    "name": "higado a la italiana",
                     "price": 450.0,
                     "category": "dishes"
                 },
@@ -1924,12 +1924,12 @@
         "menu": {
             "food":[
                 {
-                    "name": "ensalada fría de jamón",
+                    "name": "ensalada fria de jamon",
                     "price": 450.0,
                     "category": "starter"
                 },
                 {
-                    "name": "ensalada fría de atún",
+                    "name": "ensalada fria de atun",
                     "price": 500.0,
                     "category": "starter"
                 },
@@ -1944,12 +1944,12 @@
                     "category": "starter"
                 },
                 {
-                    "name": "tostón relleno de jamón",
+                    "name": "toston relleno de jamon",
                     "price": 450.0,
                     "category": "starter"
                 },
                 {
-                    "name": "tostón relleno de atún",
+                    "name": "toston relleno de atun",
                     "price": 450.0,
                     "category": "starter"
                 },
@@ -1959,7 +1959,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "cóctel de camarón",
+                    "name": "coctel de camaron",
                     "price": 700.0,
                     "category": "starter"
                 },
@@ -1974,7 +1974,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "entremés",
+                    "name": "entremes",
                     "price": 800.0,
                     "category": "starter"
                 },
@@ -2059,7 +2059,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "pizza de jamón",
+                    "name": "pizza de jamon",
                     "price": 800.0,
                     "category": "pasta/pizza"
                 },
@@ -2094,12 +2094,12 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "espaguetis con jamón",
+                    "name": "espaguetis con jamon",
                     "price": 800.0,
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "espaguetis boloñesa",
+                    "name": "espaguetis bolonnsa",
                     "price": 800.0,
                     "category": "pasta/pizza"
                 },
@@ -2109,7 +2109,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "espaguetis con atún",
+                    "name": "espaguetis con atun",
                     "price": 950.0,
                     "category": "pasta/pizza"
                 },
@@ -2119,7 +2119,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "lasagna de jamón",
+                    "name": "lasagna de jamon",
                     "price": 800.0,
                     "category": "pasta/pizza"
                 },
@@ -2249,7 +2249,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "cóctel de camarones",
+                    "name": "coctel de camarones",
                     "price": 2000.0,
                     "category": "starter"
                 },
@@ -2304,7 +2304,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "spaguetis napolés",
+                    "name": "spaguetis napoles",
                     "price": 850.0,
                     "category": "pasta/pizza"
                 },
@@ -2314,7 +2314,7 @@
                     "category": "dessert"
                 },
                 {
-                    "name": "cheesecake de limón",
+                    "name": "cheesecake de limon",
                     "price": 750.0,
                     "category": "dessert"
                 },
@@ -2341,7 +2341,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "cócteles analcohólicos",
+                    "name": "cocteles analcoholicos",
                     "price": 500.0,
                     "is_alcoholic": true
                 },
@@ -2381,12 +2381,12 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "limonada frappé",
+                    "name": "limonada frappe",
                     "price": 250.0,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "daiquirí",
+                    "name": "daiquiri",
                     "price": 800.0,
                     "is_alcoholic": true
                 },
@@ -2396,12 +2396,12 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "piña colada",
+                    "name": "pinna colada",
                     "price": 1000.0,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "sangría",
+                    "name": "sangria",
                     "price": 1000.0,
                     "is_alcoholic": true
                 },

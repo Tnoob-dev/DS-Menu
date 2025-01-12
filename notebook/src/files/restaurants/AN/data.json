@@ -40,7 +40,7 @@
                 {"name": "Tostones rellenos", "price": 850, "category": "starter"},
                 {"name": "Frituras de malanga", "price": 650, "category": "starter"},
                 {"name": "Garbanzos fritos", "price": 1200, "category": "starter"},
-                {"name": "Eperlán de picar", "price": 1200, "category": "starter"},
+                {"name": "Eperlan de picar", "price": 1200, "category": "starter"},
                 {"name": "Fajitas de pollo", "price": 950, "category": "starter"},
                 {"name": "Ceviche ATLANTA","price": 950, "category": "starter"},
                 {"name": "Tacos Atlanta", "price": 1650, "category": "starter"},
@@ -458,7 +458,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "masas glasé",
+                    "name": "masas glase",
                     "price": 1050,
                     "category": "dishes"
                 },
@@ -468,7 +468,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "bistec de cerdo grillé",
+                    "name": "bistec de cerdo grille",
                     "price": 950,
                     "category": "dishes"
                 },
@@ -483,7 +483,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "filete de pescado grillé",
+                    "name": "filete de pescado grille",
                     "price": 1600,
                     "category": "dishes"
                 },
@@ -565,7 +565,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "cerveza la fría",
+                    "name": "cerveza la fria",
                     "price": 190,
                     "is_alcoholic": true
                 },
@@ -698,7 +698,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "canapés agridulces de jamon y queso con pinna",
+                    "name": "canapes agridulces de jamon y queso con pinna",
                     "price": 1200.0,
                     "category": "starter"
                 },
@@ -815,7 +815,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "daiquiri frappé",
+                    "name": "daiquiri frappe",
                     "price": 700.0,
                     "is_alcoholic": true
                 },
@@ -830,12 +830,12 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "sangría espannola",
+                    "name": "sangria espannola",
                     "price": 800.0,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "sangría asturiana",
+                    "name": "sangria asturiana",
                     "price": 850.0,
                     "is_alcoholic": true
                 },
@@ -890,42 +890,42 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "café e infusiones",
+                    "name": "cafe e infusiones",
                     "price": 250.0,
                     "is_alcoholic": false
                 },
                 {
-                    "name": "café tradicional",
+                    "name": "cafe tradicional",
                     "price": 150.0,
                     "is_alcoholic": false
                 },
                 {
-                    "name": "café con leche",
+                    "name": "cafe con leche",
                     "price": 250.0,
                     "is_alcoholic": false
                 },
                 {
-                    "name": "café capuchino",
+                    "name": "cafe capuchino",
                     "price": 400.0,
                     "is_alcoholic": false
                 },
                 {
-                    "name": "café bombon",
+                    "name": "cafe bombon",
                     "price": 500.0,
                     "is_alcoholic": false
                 },
                 {
-                    "name": "café americano",
+                    "name": "cafe americano",
                     "price": 200.0,
                     "is_alcoholic": false
                 },
                 {
-                    "name": "café de ron cubano",
+                    "name": "cafe de ron cubano",
                     "price": 300.0,
                     "is_alcoholic": false
                 },
                 {
-                    "name": "té",
+                    "name": "te",
                     "price": 200.0,
                     "is_alcoholic": false
                 },
@@ -940,7 +940,7 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "limonada frappé",
+                    "name": "limonada frappe",
                     "price": 600.0,
                     "is_alcoholic": false
                 }
@@ -1305,21 +1305,21 @@
             {"name": "Masas de Cangrejo con tostones", "price": 1000, "category": "starter"},
             {"name": "Milanesa de res con papas fritas", "price": 1500, "category": "starter"},
             {"name": "Hamburguesa de res c/ queso gratinado y papas fritas", "price": 1500, "category": "hamburger/sandwich"},
-            {"name": "Hamburguesas de Salmón c/ queso gratinado y tostones", "price": 1500, "category": "hamburger/sandwich"},
+            {"name": "Hamburguesas de Salmon c/ queso gratinado y tostones", "price": 1500, "category": "hamburger/sandwich"},
             {"name": "Filete de Pescado Grille", "price": 1500, "category": "dishes"},
             {"name": "Filete de Pescado empanado", "price": 1500, "category": "dishes"},
             {"name": "Filete de Pescado Monte toro", "price": 1800, "category": "dishes"},
 			{"name": "Filete de Pescado Caney", "price": 1800, "category": "dishes"},
             {"name": "Filete de Pescado \"Los Caneyes\" (filete con camarones y queso gratinado)", "price": 2500, "category": "dishes"},
             {"name": "Masas de Cangrejo en salsa de tomate", "price": 1300, "category": "dishes"},
-            {"name": "Salmón rociado en salsa de tomate", "price": 1500, "category": "dishes"},
+            {"name": "Salmon rociado en salsa de tomate", "price": 1500, "category": "dishes"},
             {"name": "Camarones al Ajillo", "price": 2200, "category": "dishes"},
             {"name": "Enchilado de Camarones", "price": 2200, "category": "dishes"},
             {"name": "Camarones Rebozados", "price": 2200, "category": "dishes"},
             {"name":"Lomo ahumado deshuesado", "price": 1800, "category": "dishes"},
             {"name":"Bistec de Cerdo Frito", "price": 1300, "category": "dishes"},
             {"name":"Escalope de cerdo", "price": 1500, "category": "dishes"},
-            {"name":"Bistec de cerdo con Jamón, chorizo y Queso", "price": 1800, "category": "dishes"},
+            {"name":"Bistec de cerdo con Jamon, chorizo y Queso", "price": 1800, "category": "dishes"},
             {"name":"Bistec Uruguayo", "price": 1800, "category": "dishes"},
             {"name":"Boucht de cerdo", "price": 1300, "category": "dishes"},
             {"name":"Ropa Vieja", "price": 1700, "category": "dishes"},
@@ -1328,23 +1328,23 @@
             {"name":"Fajitas salteadas", "price": 1300, "category": "dishes"},
             {"name":"Fajitas empanadas", "price": 1400, "category": "dishes"},
             {"name":"Suprema de pollo empanada", "price": 1400, "category": "dishes"},
-            {"name":"Suprema de pollo con jamón y queso", "price": 1800, "category": "dishes"},
+            {"name":"Suprema de pollo con jamon y queso", "price": 1800, "category": "dishes"},
             {"name":"Gordon Blue", "price": 2300, "category": "dishes"},
             {"name":"Suprema de pollo rellena con camarones y queso", "price": 2300, "category": "dishes"},
             {"name":"Suprema \"Los Caneyes\" (camarones y queso gratinado)", "price": 2300, "category": "dishes"},
             {"name": "Arroz Blanco", "price": 150, "category": "food_garnish"},
             {"name": "Arroz Congri", "price": 200, "category": "food_garnish"},
             {"name": "Yuca con mojo", "price": 200, "category": "food_garnish"},
-            {"name":"Puré de malanga (se procesa al pedido)", "price": 400, "category": "food_garnish"},
+            {"name":"Pure de malanga (se procesa al pedido)", "price": 400, "category": "food_garnish"},
             {"name": "Spaguettis Napolitano", "price": 700, "category": "pasta/pizza"},
             {"name":"Pizza Napolitana", "price": 900, "category": "pasta/pizza"},
             {"name":"Pizza Napolitana con queso Gouda", "price": 1300, "category": "pasta/pizza"},
-            {"name": "Ensalada Mixta de Estación", "price": 250, "category": "pasta/pizza"},
+            {"name": "Ensalada Mixta de Estacion", "price": 250, "category": "pasta/pizza"},
             {"name": "Tarta con Ganache de Chocolate", "price": 450, "category": "dessert"},
-            {"name": "Pote de helado Gustó (1 litro)", "price": 1000, "category": "dessert"}
+            {"name": "Pote de helado Gusto (1 litro)", "price": 1000, "category": "dessert"}
         ],
             "drinks": [
-                {"name": "Refresco cola y limón", "price": 250, "is_alcoholic": false},
+                {"name": "Refresco cola y limon", "price": 250, "is_alcoholic": false},
                 {"name": "Refresco de mate", "price": 270, "is_alcoholic": false},
                 {"name": "Malta", "price": 300, "is_alcoholic": false},
                 {"name": "Agua Mineral Embotellada", "price": 300, "is_alcoholic": false},
@@ -1352,7 +1352,7 @@
                 {"name": "Cerveza Cristal", "price": 300, "is_alcoholic": false},
                 {"name": "Latas de jugo", "price": 300, "is_alcoholic": false},
                 {"name": "Bebida energizante", "price": 100, "is_alcoholic": false},
-                {"name": "Café", "price": 100, "is_alcoholic": false}
+                {"name": "Cafe", "price": 100, "is_alcoholic": false}
             ]}
     },
     {
@@ -1416,8 +1416,8 @@
                 {"name": "Refresco de Lata", "price": 210, "is_alcoholic": false},
                 {"name": "Limonada Frappe", "price": 250, "is_alcoholic": false},
                 {"name": "Agrego de Michelada", "price": 250, "is_alcoholic": false},
-                {"name": "Piña Colada sin Alcohol", "price": 500, "is_alcoholic": false},
-                {"name": "Piña Colada con Alcohol", "price": 575, "is_alcoholic": true},
+                {"name": "Pinna Colada sin Alcohol", "price": 500, "is_alcoholic": false},
+                {"name": "Pinna Colada con Alcohol", "price": 575, "is_alcoholic": true},
                 {"name": "Cuba Libre", "price": 500, "is_alcoholic": true},
                 {"name": "Mojito", "price": 500, "is_alcoholic": true},
                 {"name": "Botella Label 5", "price": 3500, "is_alcoholic": true},
@@ -1426,8 +1426,8 @@
                 {"name": "Howells", "price": 300, "is_alcoholic": true},
                 {"name": "Gran Marchell", "price": 300, "is_alcoholic": true},
                 {"name": "Pacto Navio", "price": 700, "is_alcoholic": true},
-                {"name": "Havana Club Añejo Reserva", "price": 400, "is_alcoholic": true},
-                {"name": "Havana Club Añejo 3 Años", "price": 350, "is_alcoholic": true},
+                {"name": "Havana Club Annejo Reserva", "price": 400, "is_alcoholic": true},
+                {"name": "Havana Club Annejo 3 Annos", "price": 350, "is_alcoholic": true},
                 {"name": "Ginebra", "price": 300, "is_alcoholic": true},
                 {"name": "Vodka", "price": 300, "is_alcoholic": true},
                 {"name": "Copa Vino Tinto", "price": 600, "is_alcoholic": true},

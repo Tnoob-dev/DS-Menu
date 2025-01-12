@@ -626,12 +626,12 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "piña colada",
+                    "name": "pinna colada",
                     "price": 720,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "sangría",
+                    "name": "sangria",
                     "price": 850,
                     "is_alcoholic": true
                 },
@@ -908,7 +908,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "pulpo fresco en vinagreta de cilantro y pimentón",
+                    "name": "pulpo fresco en vinagreta de cilantro y pimenton",
                     "price": 1350,
                     "category": "starter"
                 },
@@ -928,7 +928,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "croquetas caseras del día",
+                    "name": "croquetas caseras del dia",
                     "price": 490,
                     "category": "starter"
                 },
@@ -938,7 +938,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "tostones rellenos con jamón y queso",
+                    "name": "tostones rellenos con jamon y queso",
                     "price": 990,
                     "category": "starter"
                 },
@@ -958,7 +958,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "tamal en hoja en montería de cerdo",
+                    "name": "tamal en hoja en monteria de cerdo",
                     "price": 890,
                     "category": "starter"
                 },
@@ -983,12 +983,12 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "arroz con pollo en baño de cerveza",
+                    "name": "arroz con pollo en banno de cerveza",
                     "price": 1650,
                     "category": "dishes"
                 },
                 {
-                    "name": "pescado fresco del día con salteado de albahaca, tomate y ajo",
+                    "name": "pescado fresco del dia con salteado de albahaca, tomate y ajo",
                     "price": 1890,
                     "category": "dishes"
                 },
@@ -1160,7 +1160,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "piña colada",
+                    "name": "pinna colada",
                     "price": 650,
                     "is_alcoholic": true
                 },
@@ -2543,7 +2543,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "camarón a la mantequilla",
+                    "name": "camaron a la mantequilla",
                     "price": 2900,
                     "category": "dishes"
                 },
@@ -2645,7 +2645,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "piña colada",
+                    "name": "pinna colada",
                     "price": 700,
                     "is_alcoholic": true
                 },

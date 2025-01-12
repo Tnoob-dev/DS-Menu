@@ -164,7 +164,7 @@
                   "category": "dishes"
             },
             {
-                  "name": "Pizza de jamón",
+                  "name": "Pizza de jamon",
                   "price": 930,
                   "category": "dishes"
             },
@@ -179,12 +179,12 @@
                   "category": "dishes"
             },
             {
-                  "name": "Pizza de ají",
+                  "name": "Pizza de aji",
                   "price": 950,
                   "category": "dishes"
             },
             {
-                  "name": "Pizza de atún",
+                  "name": "Pizza de atun",
                   "price": 1250,
                   "category": "dishes"
             },
@@ -204,7 +204,7 @@
                   "category": "dishes"
             },
             {
-                  "name": "Espaguetis de jamón",
+                  "name": "Espaguetis de jamon",
                   "price": 780,
                   "category": "dishes"
             },
@@ -279,7 +279,7 @@
                     "category": "hamburger/sandwich"
                 },
                 {
-                    "name": "Pan con Tortilla, Jamón",
+                    "name": "Pan con Tortilla, Jamon",
                     "price": 360,
                     "category": "hamburger/sandwich"
                 },
@@ -390,7 +390,7 @@
                      "category": "pasta/pizza"
                 },
                 {
-                    "name": "Pizza de jamón",
+                    "name": "Pizza de jamon",
                     "price": 1000,
                     "category": "pasta/pizza"
                 },
@@ -410,7 +410,7 @@
                      "category": "pasta/pizza"
                 },
                 {
-                    "name": "Espaguetis de jamón",
+                    "name": "Espaguetis de jamon",
                     "price": 1100,
                      "category": "pasta/pizza"
                 },
@@ -504,7 +504,7 @@
                     "category": "starter"
                   },
                   {
-                    "name": "Jamón ,queso y aceitunas",
+                    "name": "Jamon ,queso y aceitunas",
                     "price": 750,
                     "category": "starter"
                   },
@@ -544,7 +544,7 @@
                      "category": "pasta/pizza"
                   },
                   {
-                    "name": "Pizza de jamón",
+                    "name": "Pizza de jamon",
                     "price": 1000,
                      "category": "pasta/pizza"
                   },
@@ -564,7 +564,7 @@
                      "category": "pasta/pizza"
                   },
                   {
-                    "name": "Espaguetis de jamón",
+                    "name": "Espaguetis de jamon",
                     "price": 1100,
                      "category": "pasta/pizza"
                   },
@@ -579,7 +579,7 @@
                     "category": "hamburger/sandwich"
                   },
                   {
-                    "name": "Hamburguesa jamón y queso",
+                    "name": "Hamburguesa jamon y queso",
                     "price": 1650,
                     "category": "hamburger/sandwich"
                   },
@@ -801,7 +801,7 @@
                     "category": "starter"
                   },
                   {
-                    "name": "Croquetas de jamón",
+                    "name": "Croquetas de jamon",
                     "price": 600,
                     "category": "starter"
                   },
@@ -816,12 +816,12 @@
                     "category": "starter"
                   },
                   {
-                    "name": "Tostón relleno de atún",
+                    "name": "Toston relleno de atun",
                     "price": 1100,
                     "category": "starter"
                   },
                    {
-                    "name": "Tostón relleno de jamón y queso",
+                    "name": "Toston relleno de jamon y queso",
                     "price": 800,
                     "category": "starter"
                   },
@@ -846,17 +846,17 @@
                       "category": "starter"
                   },
                   {
-                    "name": "Bocadillo de jamón y queso",
+                    "name": "Bocadillo de jamon y queso",
                      "price": 500,
                      "category": "starter"
                   },
                   {
-                    "name": "Sándwich de jamón y queso/papas",
+                    "name": "Sandwich de jamon y queso/papas",
                      "price": 1200,
                      "category": "starter"
                   },
                   {
-                    "name": "Sándwich cubano",
+                    "name": "Sandwich cubano",
                     "price": 1100,
                      "category": "starter"
                   },
@@ -928,7 +928,7 @@
                     "is_alcoholic": true
                   },
                   {
-                    "name": "Sangría",
+                    "name": "Sangria",
                     "price": 600,
                     "is_alcoholic": true
                   },
@@ -1078,7 +1078,7 @@
                         "is_alcoholic": false
                 },
                 {
-                    "name": "Refresco de limón",
+                    "name": "Refresco de limon",
                     "price": 300,
                     "is_alcoholic": false
                 },
@@ -1098,17 +1098,17 @@
                         "is_alcoholic": false
                 },
                 {
-                    "name": "Café Bombom",
+                    "name": "Cafe Bombom",
                     "price": 350,
                     "is_alcoholic": false
                 },
                 {
-                    "name": "Café Cortadito",
+                    "name": "Cafe Cortadito",
                     "price": 300,
                     "is_alcoholic": false
                 },
                 {
-                    "name":"Café Express",
+                    "name":"Cafe Express",
                     "price": 200,
                     "is_alcoholic": false
                 },
@@ -1118,7 +1118,7 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name":"Copa Lolita Ración",
+                    "name":"Copa Lolita Racion",
                     "price": 2000,
                     "is_alcoholic": false
                 },
@@ -1240,7 +1240,7 @@
                      "category": "starter"
                 },
                 {
-                    "name": "Rollitos de salmón rellenos de queso crema y uvas pasas",
+                    "name": "Rollitos de salmon rellenos de queso crema y uvas pasas",
                     "price": 5.00,
                      "category": "starter"
                 },
@@ -1260,7 +1260,7 @@
                      "category": "dishes"
                   },
                   {
-                    "name": "Filete de salmon rosa grillé",
+                    "name": "Filete de salmon rosa grille",
                     "price": 10.25,
                      "category": "dishes"
                   },
@@ -1332,7 +1332,7 @@
                      "is_alcoholic": true
                   },
                   {
-                     "name":"Ron Havana Club MÁXIMO",
+                     "name":"Ron Havana Club MAXIMO",
                      "price": 200.00,
                      "is_alcoholic": true
                   },
@@ -1587,7 +1587,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name":"Licor Malibú",
+                    "name":"Licor Malibu",
                     "price": 2.00,
                     "is_alcoholic": true
                 },
@@ -1597,7 +1597,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name":"Licor Tía María",
+                    "name":"Licor Tia Maria",
                     "price": 4.50,
                     "is_alcoholic": true
                 },
@@ -1652,7 +1652,7 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "Agua Ciego Montero tónica",
+                    "name": "Agua Ciego Montero tonica",
                     "price": 1.00,
                     "is_alcoholic": false
                 },

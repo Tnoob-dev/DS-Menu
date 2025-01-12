@@ -75,7 +75,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "ENTREMÉS",
+                    "name": "ENTREMES",
                     "price": 960.00,
                     "category": "starter"
                 },
@@ -120,7 +120,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "BROCHETAS DE CERDO AL CARBÓN",
+                    "name": "BROCHETAS DE CERDO AL CARBON",
                     "price": 1800.00,
                     "category": "dishes"
                 },
@@ -135,12 +135,12 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "LOMO DE CERDO ASADO AL CARBÓN",
+                    "name": "LOMO DE CERDO ASADO AL CARBON",
                     "price": 1800.00,
                     "category": "dishes"
                 },
                 {
-                    "name": "CHORIZADA AL CARBÓN",
+                    "name": "CHORIZADA AL CARBON",
                     "price": 2000.00,
                     "category": "dishes"
                 },
@@ -475,12 +475,12 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "Tacos Vegetales salteados en mantequilla y limón",
+                    "name": "Tacos Vegetales salteados en mantequilla y limon",
                     "price": 0.00,
                     "category": "dishes"
                 },
                 {
-                    "name": "Tacos Jamón y Queso",
+                    "name": "Tacos Jamon y Queso",
                     "price": 650.00,
                     "category": "dishes"
                 }
@@ -527,17 +527,17 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "Irlandés",
+                    "name": "Irlandes",
                     "price": 250.00,
                     "is_alcoholic": false
                 },
                 {
-                    "name": "Caribeño",
+                    "name": "Caribenno",
                     "price": 180.00,
                     "is_alcoholic": false
                 },
                 {
-                    "name": "Alma mía",
+                    "name": "Alma mia",
                     "price": 180.00,
                     "is_alcoholic": false
                 },
@@ -595,12 +595,12 @@
         "menu": {
             "food":[
                 {
-                    "name": "Ración de Yuca con Mojo",
+                    "name": "Racion de Yuca con Mojo",
                     "price": 250.00,
                     "category": "starter"
                 },
                 {
-                    "name": "Ensalada de Estación",
+                    "name": "Ensalada de Estacion",
                     "price": 150.00,
                     "category": "starter"
                 },
@@ -640,7 +640,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "Papas fritas con kétchup",
+                    "name": "Papas fritas con ketchup",
                     "price": 500.00,
                     "category": "starter"
                 },
@@ -690,7 +690,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "Pechuga Grillé",
+                    "name": "Pechuga Grille",
                     "price": 1600.00,
                     "category": "dishes"
                 },
@@ -700,12 +700,12 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "Ración de Arroz Moro",
+                    "name": "Racion de Arroz Moro",
                     "price": 200.00,
                     "category": "food_garnish"
                 },
                 {
-                    "name": "Ración de Arroz Blanco",
+                    "name": "Racion de Arroz Blanco",
                     "price": 150.00,
                     "category": "food_garnish"
                 },
@@ -767,7 +767,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "Sangría",
+                    "name": "Sangria",
                     "price": 500.00,
                     "is_alcoholic": true
                 },
@@ -812,12 +812,12 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "POCIÓN GUITARRETA",
+                    "name": "POCION GUITARRETA",
                     "price": 800.00,
                     "is_alcoholic": true
                 },
                 {
-                    "name": "Ron Hav Club Añejo Especial",
+                    "name": "Ron Hav Club Annejo Especial",
                     "price": 300.00,
                     "is_alcoholic": true
                 },
@@ -827,7 +827,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "Ron Hav Club Añejo 7 años",
+                    "name": "Ron Hav Club Annejo 7 annos",
                     "price": 400.00,
                     "is_alcoholic": true
                 },
@@ -952,7 +952,7 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "Refresco de limón imp 7up",
+                    "name": "Refresco de limon imp 7up",
                     "price": 260.00,
                     "is_alcoholic": false
                 },
@@ -1002,12 +1002,12 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "Piña Colada Virgen",
+                    "name": "Pinna Colada Virgen",
                     "price": 500.00,
                     "is_alcoholic": false
                 },
                 {
-                    "name": "Piña Colada",
+                    "name": "Pinna Colada",
                     "price": 600.00,
                     "is_alcoholic": false
                 }
@@ -1122,12 +1122,12 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "pizza jamón med/fam.",
+                    "name": "pizza jamon med/fam.",
                     "price": 350.0,
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "pizza nápole med/fam.",
+                    "name": "pizza napole med/fam.",
                     "price": 400.0,
                     "category": "pasta/pizza"
                 },
@@ -1142,7 +1142,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "espagueti de jamón",
+                    "name": "espagueti de jamon",
                     "price": 350.0,
                     "category": "pasta/pizza"
                 }

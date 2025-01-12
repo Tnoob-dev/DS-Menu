@@ -1576,7 +1576,7 @@
         "menu": {
             "food":[
                 {
-                    "name": "ensalada fría",
+                    "name": "ensalada fria",
                     "price": 400.0,
                     "category": "starter"
                 },
@@ -1591,7 +1591,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "tostón con mojo",
+                    "name": "toston con mojo",
                     "price": 470.0,
                     "category": "starter"
                 },
@@ -1606,7 +1606,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "tostón relleno",
+                    "name": "toston relleno",
                     "price": 700.0,
                     "category": "starter"
                 },

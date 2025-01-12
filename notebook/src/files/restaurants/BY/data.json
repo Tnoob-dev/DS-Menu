@@ -230,10 +230,10 @@
             "drinks": [
                 {"name": "Malta Bucanero", "price": 300, "is_alcoholic": false},
                 {"name": "7 Annos Havana Club", "price": 500, "is_alcoholic": true},
-                {"name": "Barceló Annejo", "price": 1000, "is_alcoholic":true},
-                {"name": "Barceló Blanco", "price": 800, "is_alcoholic":true},
-                {"name": "Barceló Dorado", "price": 1000, "is_alcoholic":true},
-                {"name": "Barceló Extra Annejo", "price": 1000, "is_alcoholic":true},
+                {"name": "Barcelo Annejo", "price": 1000, "is_alcoholic":true},
+                {"name": "Barcelo Blanco", "price": 800, "is_alcoholic":true},
+                {"name": "Barcelo Dorado", "price": 1000, "is_alcoholic":true},
+                {"name": "Barcelo Extra Annejo", "price": 1000, "is_alcoholic":true},
                 {"name": "Especial Havana Club", "price": 450, "is_alcoholic":true},
                 {"name": "Pacto de Navio Havana Club", "price": 500, "is_alcoholic":true},
                 {"name": "Reserva Havana Club", "price": 450, "is_alcoholic":true},
@@ -357,7 +357,7 @@
                 {"name": "Refresco", "price": 220, "is_alcoholic": false},
                 {"name": "Malta", "price": 250, "is_alcoholic": false},
                 {"name": "Cerveza", "price": 280, "is_alcoholic": true},
-                {"name": "Café Expreso", "price": 100, "is_alcoholic": false},
+                {"name": "Cafe Expreso", "price": 100, "is_alcoholic": false},
                 {"name": "Cortadito", "price": 150, "is_alcoholic": false}
             ]}
     },
@@ -402,30 +402,30 @@
                 {"name": "Tacos de langosta", "price": 950, "category": "starter"},
                 {"name": "Frituras de malanga", "price": 350, "category": "starter"},
                 {"name": "Crujientes de pollo", "price": 800, "category": "starter"},
-                {"name": "Coctel de camarón", "price": 1150, "category": "starter"},
+                {"name": "Coctel de camaron", "price": 1150, "category": "starter"},
                 {"name": "Ceviche de pescado", "price": 1150, "category": "starter"},
                 {"name": "Coctel de langosta", "price": 1050, "category": "starter"},
-                {"name": "Pan con lechón", "price": 1100, "category": "starter"},
+                {"name": "Pan con lechon", "price": 1100, "category": "starter"},
                 {"name": "Huevo hervido", "price": 300, "category": "starter"},
                 {"name": "Huevos fritos", "price": 380, "category": "starter"},
                 {"name": "Revoltillo natural", "price": 380, "category": "starter"},
                 {"name": "Langosta grille", "price": 1950, "category": "dishes"},
                 {"name": "Langosta al ajillo", "price": 1950, "category": "dishes"},
                 {"name": "Langosta enchilada", "price": 2250, "category": "dishes"},
-                {"name": "Camarón enchilado", "price": 2300, "category": "dishes"},
-                {"name": "Camarón grille", "price": 2150, "category": "dishes"},
+                {"name": "Camaron enchilado", "price": 2300, "category": "dishes"},
+                {"name": "Camaron grille", "price": 2150, "category": "dishes"},
                 {"name": "Costilla Frita", "price": 2600, "category": "dishes"},
-                {"name": "Camarón al ajillo", "price": 2150, "category": "dishes"},
+                {"name": "Camaron al ajillo", "price": 2150, "category": "dishes"},
                 {"name": "Fricase de Cerdo", "price": 2250, "category": "dishes"},
                 {"name": "Costilla en salsa BBQ", "price": 2680, "category": "dishes"},
                 {"name": "Bistec gratinado", "price": 2150, "category": "dishes"},
                 {"name": "Bistec de cerdo", "price": 1850, "category": "dishes"},
                 {"name": "Chuleta de cerdo", "price": 1950, "category": "dishes"},
                 {"name": "Masa frita", "price": 2150, "category": "dishes"},
-                {"name": "Chuletón de cerdo", "price": 2500, "category": "dishes"},
-                {"name": "Super Chuletón Entabla2", "price": 3200, "category": "dishes"},
+                {"name": "Chuleton de cerdo", "price": 2500, "category": "dishes"},
+                {"name": "Super Chuleton Entabla2", "price": 3200, "category": "dishes"},
                 {"name": "Filete de pescado al Vino", "price": 2000, "category": "dishes"},
-                {"name": "Filete de pescado Mediterráneo", "price": 2050, "category": "dishes"},
+                {"name": "Filete de pescado Mediterraneo", "price": 2050, "category": "dishes"},
                 {"name": "Filete don Pedro", "price": 2900, "category": "dishes"},
                 {"name": "Lonja de cerdo", "price": 2150, "category": "dishes"},
                 {"name": "Vianda hervida con mojo", "price": 200, "category": "food_garnish"},
@@ -457,7 +457,7 @@
                 {"name": "Suero de Helado", "price": 850, "is_alcoholic": false},
                 {"name": "Limonada Frape", "price": 500, "is_alcoholic": false},
                 {"name": "Batido de frutas naturales", "price": 450, "is_alcoholic": false},
-                {"name": "Agua 600ml Niágara", "price": 250, "is_alcoholic": false},
+                {"name": "Agua 600ml Niagara", "price": 250, "is_alcoholic": false},
                 {"name": "Refresco Mirinda", "price": 430, "is_alcoholic": false},
                 {"name": "Malteada", "price": 430, "is_alcoholic": false},
                 {"name": "Malteada", "price": 780, "is_alcoholic": false},
@@ -467,11 +467,11 @@
                 {"name": "Refresco 7up", "price": 430, "is_alcoholic": false},
                 {"name": "Cerveza Blue", "price": 450, "is_alcoholic": true},
                 {"name": "Malta Turbo", "price": 450, "is_alcoholic": false},
-                {"name": "Café Expreso", "price": 150, "is_alcoholic": false},
-                {"name": "Café Cortadito", "price": 250, "is_alcoholic": false},
-                {"name": "Café Bombón", "price": 550, "is_alcoholic": false},
+                {"name": "Cafe Expreso", "price": 150, "is_alcoholic": false},
+                {"name": "Cafe Cortadito", "price": 250, "is_alcoholic": false},
+                {"name": "Cafe Bombon", "price": 550, "is_alcoholic": false},
                 {"name": "Capuchino", "price": 400, "is_alcoholic": false},
-                {"name": "Café con leche", "price": 400, "is_alcoholic": false}
+                {"name": "Cafe con leche", "price": 400, "is_alcoholic": false}
             ]}
     },
     {
@@ -584,7 +584,7 @@
                 {"name": "La Tranka", "price": 2500, "category": "starter"},
                 {"name": "Hamburguesa Clasica", "price": 800, "category": "starter"},
                 {"name": "Bagutte Guajiro", "price": 1300, "category": "starter"},
-                {"name": "Sándwich Cubano", "price": 1500, "category": "starter"},
+                {"name": "Sandwich Cubano", "price": 1500, "category": "starter"},
                 {"name": "Pollo Grille al Carbon", "price": 1600, "category": "dishes"},
                 {"name": "Brochetas de Pollo", "price": 1800, "category": "dishes"},
                 {"name": "Bistec de Cerdo", "price": 1600, "category": "dishes"},
@@ -614,7 +614,7 @@
                 {"name": "Copa Lolita", "price": 850, "category": "dessert"}
             ],
             "drinks": [
-                {"name": "Café", "price": 350, "is_alcoholic": false},
+                {"name": "Cafe", "price": 350, "is_alcoholic": false},
                 {"name": "Cuba Libre", "price": 750, "is_alcoholic": true},
                 {"name": "Caipirinna", "price": 750, "is_alcoholic": true},
                 {"name": "Caipiroska", "price": 750, "is_alcoholic": true},
@@ -715,7 +715,7 @@
                 {"name": "Boniato Frito", "price": 300, "category": "food_garnish"},
                 {"name": "Malanga con Mojo", "price": 520, "category": "food_garnish"},
                 {"name": "Yuca con Mojo", "price": 300, "category": "food_garnish"},
-                {"name": "Plátano Maduro Frito", "price": 300, "category": "food_garnish"},
+                {"name": "Platano Maduro Frito", "price": 300, "category": "food_garnish"},
                 {"name": "Arroz Blanco", "price": 270, "category": "food_garnish"},
                 {"name": "Arroz Moro", "price": 320, "category": "food_garnish"},
                 {"name": "Arroz Pilaf", "price": 470, "category": "food_garnish"},
@@ -764,7 +764,7 @@
                 {"name": "Costillas de Cerdo Natural", "price": 2900, "category": "dishes"},
                 {"name": "Costillas de Cerdo Ahumadas", "price": 1830, "category": "dishes"},
                 {"name": "Estofado de Cordero", "price": 2500, "category": "dishes"},
-                {"name": "Chilindrón de Cordero", "price": 2500, "category": "dishes"},
+                {"name": "Chilindron de Cordero", "price": 2500, "category": "dishes"},
                 {"name": "Ropa Vieja de Cordero", "price": 2500, "category": "dishes"},
                 {"name": "Estofado de Conejo", "price": 2000, "category": "dishes"},
                 {"name": "Fricase de Conejo", "price": 2000, "category": "dishes"},
@@ -828,9 +828,9 @@
                 {"name": "Copa Lolita", "price": 600, "category": "dessert"}
             ],
             "drinks": [
-                {"name": "Café Expreso", "price": 100, "is_alcoholic": false},
-                {"name": "Café Cortado", "price": 150, "is_alcoholic": false},
-                {"name": "Café Bombon", "price": 250, "is_alcoholic": false},
+                {"name": "Cafe Expreso", "price": 100, "is_alcoholic": false},
+                {"name": "Cafe Cortado", "price": 150, "is_alcoholic": false},
+                {"name": "Cafe Bombon", "price": 250, "is_alcoholic": false},
                 {"name": "Capuchino", "price": 250, "is_alcoholic": false},
                 {"name": "Agua Natural 500ml", "price": 300, "is_alcoholic": false},
                 {"name": "Agua Gaseada", "price": 600, "is_alcoholic": false},
@@ -958,12 +958,12 @@
                     "category": "starter"
                 },
                 {
-                    "name": "cóctel de langosta",
+                    "name": "coctel de langosta",
                     "price": 2000.0,
                     "category": "starter"
                 },
                 {
-                    "name": "cóctel de camarón",
+                    "name": "coctel de camaron",
                     "price": 2000.0,
                     "category": "starter"
                 },
@@ -988,12 +988,12 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "sándwich jamón y queso",
+                    "name": "sandwich jamon y queso",
                     "price": 1500.0,
                     "category": "dishes"
                 },
                 {
-                    "name": "sándwich pechuga y queso",
+                    "name": "sandwich pechuga y queso",
                     "price": 1800.0,
                     "category": "dishes"
                 },
@@ -1028,7 +1028,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "medalla con jamón y queso",
+                    "name": "medalla con jamon y queso",
                     "price": 3800.0,
                     "category": "dishes"
                 },
@@ -1043,7 +1043,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "filete de pescado grillé",
+                    "name": "filete de pescado grille",
                     "price": 3000.0,
                     "category": "dishes"
                 },
@@ -1053,7 +1053,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "gratín del mar",
+                    "name": "gratin del mar",
                     "price": 4000.0,
                     "category": "dishes"
                 },
@@ -1063,12 +1063,12 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "camarón variado",
+                    "name": "camaron variado",
                     "price": 4800.0,
                     "category": "dishes"
                 },
                 {
-                    "name": "pechuga grillé",
+                    "name": "pechuga grille",
                     "price": 3000.0,
                     "category": "dishes"
                 },
@@ -1088,7 +1088,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "camarón variado",
+                    "name": "camaron variado",
                     "price": 4800.0,
                     "category": "dishes"
                 },
@@ -1098,7 +1098,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "chuletón de cerdo (para 2 personas)",
+                    "name": "chuleton de cerdo (para 2 personas)",
                     "price": 6500.0,
                     "category": "dishes"
                 },
@@ -1113,12 +1113,12 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "pizza nápole",
+                    "name": "pizza napole",
                     "price": 1000.0,
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "pizza jamón",
+                    "name": "pizza jamon",
                     "price": 1300.0,
                     "category": "pasta/pizza"
                 },
@@ -1143,12 +1143,12 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "Spaghetti nápole",
+                    "name": "Spaghetti napole",
                     "price": 1200.0,
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "Spaghetti jamón",
+                    "name": "Spaghetti jamon",
                     "price": 1500.0,
                     "category": "pasta/pizza"
                 }
@@ -1207,7 +1207,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "eperlán de pescado en salsa rosa",
+                    "name": "eperlan de pescado en salsa rosa",
                     "price": 800,
                     "category": "starter"
                 },
@@ -1272,7 +1272,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "entremes de jamón,queso, chorizo y aceitunas",
+                    "name": "entremes de jamon,queso, chorizo y aceitunas",
                     "price": 1600,
                     "category": "starter"
                 },
@@ -1287,7 +1287,7 @@
                     "category": "starter"
                 },
                 {
-                    "name": "ensalada fría italiana",
+                    "name": "ensalada fria italiana",
                     "price": 576,
                     "category": "starter"
                 },
@@ -1362,7 +1362,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "filete de pescado grillé",
+                    "name": "filete de pescado grille",
                     "price": 1760,
                     "category": "dishes"
                 },
@@ -1392,17 +1392,17 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "camarón al ajillo",
+                    "name": "camaron al ajillo",
                     "price": 1888,
                     "category": "dishes"
                 },
                 {
-                    "name": "camarón rebosado",
+                    "name": "camaron rebosado",
                     "price": 1904,
                     "category": "dishes"
                 },
                 {
-                    "name": "camarón enchilado",
+                    "name": "camaron enchilado",
                     "price": 2000,
                     "category": "dishes"
                 },
@@ -1452,7 +1452,7 @@
                     "category": "dishes"
                 },
                 {
-                    "name": "sandwich de jamón y queso",
+                    "name": "sandwich de jamon y queso",
                     "price": 480,
                     "category": "dishes"
                 },
@@ -1467,7 +1467,7 @@
                     "category": "hamburger/sandwich"
                 },
                 {
-                    "name": "bocadito de atún",
+                    "name": "bocadito de atun",
                     "price": 944,
                     "category": "hamburger/sandwich"
                 },
@@ -1482,7 +1482,7 @@
                     "category": "hamburger/sandwich"
                 },
                 {
-                    "name": "bocadito de jamón y queso",
+                    "name": "bocadito de jamon y queso",
                     "price": 240,
                     "category": "hamburger/sandwich"
                 },
@@ -1507,7 +1507,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "pizza de jamón",
+                    "name": "pizza de jamon",
                     "price": 304,
                     "category": "pasta/pizza"
                 },
@@ -1527,7 +1527,7 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "pizza de jamón",
+                    "name": "pizza de jamon",
                     "price": 784,
                     "category": "pasta/pizza"
                 },
@@ -1552,17 +1552,17 @@
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "Spaghetti de jamón",
+                    "name": "Spaghetti de jamon",
                     "price": 496,
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "Spaghetti a la boloñesa",
+                    "name": "Spaghetti a la bolonnesa",
                     "price": 816,
                     "category": "pasta/pizza"
                 },
                 {
-                    "name": "lasagna del día",
+                    "name": "lasagna del dia",
                     "price": 944,
                     "category": "pasta/pizza"
                 },
@@ -1624,7 +1624,7 @@
                     "is_alcoholic": true
                 },
                 {
-                    "name": "leche con café",
+                    "name": "leche con cafe",
                     "price": 304,
                     "is_alcoholic": false
                 },
@@ -1634,12 +1634,12 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "café expreso",
+                    "name": "cafe expreso",
                     "price": 320,
                     "is_alcoholic": false
                 },
                 {
-                    "name": "café cortado",
+                    "name": "cafe cortado",
                     "price": 416,
                     "is_alcoholic": false
                 },
@@ -1674,7 +1674,7 @@
                     "is_alcoholic": false
                 },
                 {
-                    "name": "piña colada",
+                    "name": "pinna colada",
                     "price": 640,
                     "is_alcoholic": false
                 },
