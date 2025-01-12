@@ -1704,315 +1704,314 @@
                     "name": "crema bechamel y mucho queso",
                     "price": 850,
                     "category": "starter"
-                }
+                },
+                {
+                  "name": "involtino de cerdo con jamon y queso",
+                  "price": 2700,
+                  "category": "dishes"
+              },
+              {
+                  "name": "filete de pescado grille",
+                  "price": 2500,
+                  "category": "dishes"
+              },
+              {
+                  "name": "langosta grille",
+                  "price": 2600,
+                  "category": "dishes"
+              },
+              {
+                  "name": "langosta asada con camarones",
+                  "price": 3800,
+                  "category": "dishes"
+              },
+              {
+                  "name": "filete de salmon",
+                  "price": 3300,
+                  "category": "dishes"
+              },
+              {
+                  "name": "entrecotte grille a la mantequilla y romero",
+                  "price": 7500,
+                  "category": "dishes"
+              },
+              {
+                  "name": "pasta con albondigas de carne",
+                  "price": 2400,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza margarita (20cm)",
+                  "price": 750,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza margarita (30cm)",
+                  "price": 1500,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza 4 estaciones (20cm)",
+                  "price": 1000,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza 4 estaciones (30cm)",
+                  "price": 2000,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza atun y cebolla (20cm)",
+                  "price": 1250,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza atun y cebolla (30cm)",
+                  "price": 2500,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza jamon y champinon (20cm) ",
+                  "price": 1200,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza jamon y champinon (30cm)",
+                  "price": 2400,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza hawaiana (20cm)",
+                  "price": 950,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza hawaiana (30cm)",
+                  "price": 1900,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza jamon serrano (20cm)",
+                  "price": 1000,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza jamon serrano (30cm)",
+                  "price": 2000,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza cuatro quesos (20cm)",
+                  "price": 1350,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza cuatro quesos (30cm)",
+                  "price": 2700,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza caprichosa (20cm)",
+                  "price": 1350,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza caprichosa (30cm)",
+                  "price": 2700,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza honolulu (20cm)",
+                  "price": 1135,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza honolulu (30cm)",
+                  "price": 2270,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "calzone (20cm)",
+                  "price": 1100,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "calzone (30cm)",
+                  "price": 2200,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza italiana (20cm)",
+                  "price": 1175,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza italiana (30cm)",
+                  "price": 2350,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza pepperoni (20cm)",
+                  "price": 1000,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza pepperoni (30cm)",
+                  "price": 2000,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza a la aragosta (20cm)",
+                  "price": 1200,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza a la aragosta (30cm)",
+                  "price": 2400,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza de frutos del mar (20cm)",
+                  "price": 1250,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pizza de frutos del mar (30cm)",
+                  "price": 2500,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pasta al ajo, aceite de oliva y camarones",
+                  "price": 2250,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pasta al pesto genovese",
+                  "price": 2100,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pasta aglio, oleo y peperoncino",
+                  "price": 850,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pasta napolitana con jamon y queso",
+                  "price": 650,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pasta a la carbonara",
+                  "price": 1600,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pasta con crema alfredo y pollo",
+                  "price": 2450,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pasta a la crema de jamon y champinnones",
+                  "price": 1350,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pasta al gran caruso",
+                  "price": 1850,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "penne con albondigas de carne gratinada",
+                  "price": 2300,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "canelones de jamon",
+                  "price": 1800,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "lasagna carne alfredo",
+                  "price": 2700,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pasta a la napolitana",
+                  "price": 800,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pasta a la bolognese",
+                  "price": 1800,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pasta a la arrabiata",
+                  "price": 1000,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pasta a la puttanesca",
+                  "price": 1350,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pasta a la amatriciana",
+                  "price": 1300,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pasta a la marinera",
+                  "price": 2000,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pasta con atun",
+                  "price": 2200,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pasta a la langosta",
+                  "price": 1670,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "pasta con albondigas de carne",
+                  "price": 2400,
+                  "category": "pasta/pizza"
+              },
+              {
+                  "name": "brownie con helado",
+                  "price": 800,
+                  "category": "dessert"
+              },
+              {
+                  "name": "tarta de manzana con helado",
+                  "price": 800,
+                  "category": "dessert"
+              },
+              {
+                  "name": "tarta de chocolate con helado",
+                  "price": 600,
+                  "category": "dessert"
+              },
+              {
+                  "name": "flan napolitano",
+                  "price": 800,
+                  "category": "dessert"
+              },
+              {
+                  "name": "helado de la casa",
+                  "price": 450,
+                  "category": "dessert"
+              },
+              {
+                  "name": "3 leches de la casa",
+                  "price": 1300,
+                  "category": "dessert"
+              }
             ],
-            "drinks": [
-                {
-                    "name": "involtino de cerdo con jamon y queso",
-                    "price": 2700,
-                    "category": "dishes"
-                },
-                {
-                    "name": "filete de pescado grille",
-                    "price": 2500,
-                    "category": "dishes"
-                },
-                {
-                    "name": "langosta grille",
-                    "price": 2600,
-                    "category": "dishes"
-                },
-                {
-                    "name": "langosta asada con camarones",
-                    "price": 3800,
-                    "category": "dishes"
-                },
-                {
-                    "name": "filete de salmon",
-                    "price": 3300,
-                    "category": "dishes"
-                },
-                {
-                    "name": "entrecotte grille a la mantequilla y romero",
-                    "price": 7500,
-                    "category": "dishes"
-                },
-                {
-                    "name": "pasta con albondigas de carne",
-                    "price": 2400,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza margarita (20cm)",
-                    "price": 750,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza margarita (30cm)",
-                    "price": 1500,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza 4 estaciones (20cm)",
-                    "price": 1000,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza 4 estaciones (30cm)",
-                    "price": 2000,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza atun y cebolla (20cm)",
-                    "price": 1250,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza atun y cebolla (30cm)",
-                    "price": 2500,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza jamon y champinon (20cm) ",
-                    "price": 1200,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza jamon y champinon (30cm)",
-                    "price": 2400,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza hawaiana (20cm)",
-                    "price": 950,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza hawaiana (30cm)",
-                    "price": 1900,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza jamon serrano (20cm)",
-                    "price": 1000,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza jamon serrano (30cm)",
-                    "price": 2000,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza cuatro quesos (20cm)",
-                    "price": 1350,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza cuatro quesos (30cm)",
-                    "price": 2700,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza caprichosa (20cm)",
-                    "price": 1350,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza caprichosa (30cm)",
-                    "price": 2700,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza honolulu (20cm)",
-                    "price": 1135,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza honolulu (30cm)",
-                    "price": 2270,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "calzone (20cm)",
-                    "price": 1100,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "calzone (30cm)",
-                    "price": 2200,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza italiana (20cm)",
-                    "price": 1175,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza italiana (30cm)",
-                    "price": 2350,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza pepperoni (20cm)",
-                    "price": 1000,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza pepperoni (30cm)",
-                    "price": 2000,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza a la aragosta (20cm)",
-                    "price": 1200,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza a la aragosta (30cm)",
-                    "price": 2400,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza de frutos del mar (20cm)",
-                    "price": 1250,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pizza de frutos del mar (30cm)",
-                    "price": 2500,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pasta al ajo, aceite de oliva y camarones",
-                    "price": 2250,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pasta al pesto genovese",
-                    "price": 2100,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pasta aglio, oleo y peperoncino",
-                    "price": 850,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pasta napolitana con jamon y queso",
-                    "price": 650,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pasta a la carbonara",
-                    "price": 1600,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pasta con crema alfredo y pollo",
-                    "price": 2450,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pasta a la crema de jamon y champinnones",
-                    "price": 1350,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pasta al gran caruso",
-                    "price": 1850,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "penne con albondigas de carne gratinada",
-                    "price": 2300,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "canelones de jamon",
-                    "price": 1800,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "lasagna carne alfredo",
-                    "price": 2700,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pasta a la napolitana",
-                    "price": 800,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pasta a la bolognese",
-                    "price": 1800,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pasta a la arrabiata",
-                    "price": 1000,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pasta a la puttanesca",
-                    "price": 1350,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pasta a la amatriciana",
-                    "price": 1300,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pasta a la marinera",
-                    "price": 2000,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pasta con atun",
-                    "price": 2200,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pasta a la langosta",
-                    "price": 1670,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "pasta con albondigas de carne",
-                    "price": 2400,
-                    "category": "pasta/pizza"
-                },
-                {
-                    "name": "brownie con helado",
-                    "price": 800,
-                    "category": "dessert"
-                },
-                {
-                    "name": "tarta de manzana con helado",
-                    "price": 800,
-                    "category": "dessert"
-                },
-                {
-                    "name": "tarta de chocolate con helado",
-                    "price": 600,
-                    "category": "dessert"
-                },
-                {
-                    "name": "flan napolitano",
-                    "price": 800,
-                    "category": "dessert"
-                },
-                {
-                    "name": "helado de la casa",
-                    "price": 450,
-                    "category": "dessert"
-                },
-                {
-                    "name": "3 leches de la casa",
-                    "price": 1300,
-                    "category": "dessert"
-                }
-            ]
+            "drinks": null
         }
     },
     {
@@ -2414,12 +2413,12 @@
                 {
                     "name": "freddo expresso",
                     "price": 450,
-                    "category": false
+                    "is_alcoholic": false
                 },
                 {
                     "name": "freddo capucchino",
                     "price": 650,
-                    "category": false
+                    "is_alcoholic": false
                 }
             ]
         }
@@ -7336,91 +7335,76 @@
                   {
                     "name": "Margarita",
                     "price": 2000,
-                    "description": "Salsa de Tomate, Queso Mozzarella y Albahaca. Tomato Sauce, Mozzarella Cheese and Basil",
                     "category": "pasta/pizza"
                   },
                   {
                     "name": "Friarielli y Salchicha Italiana",
                     "price": 3000,
-                    "description": "Pizza Blanca, Queso Mozzarella, Salchicha y Brocoli Italiano. White Pizza, Mozzarella Cheese, Sausage and Italian Broccoli",
                     "category": "pasta/pizza"
                   },
                   {
                     "name": "Funghi",
                     "price": 2200,
-                    "description": "Salsa de Tomate, Queso Mozzarella y Champinnones. Tomato Sauce, Mozzarella Cheese and Mushrooms",
                     "category": "pasta/pizza"
                   },
                   {
                     "name": "Vegetariana",
                     "price": 2300,
-                    "description": "Salsa de Tomate, Queso Mozzarella y Vegetales de Estacion. Tomato Sauce, Mozzarella Cheese and Season Vegetables",
                     "category": "pasta/pizza"
                   },
                   {
                     "name": "4 Quesos",
                     "price": 2600,
-                    "description": "Queso Mozzarella, Queso Azul, Queso Scamorza Ahumado y Queso Parmesano. Mozzarella Cheese, Blue Cheese, Smoked Scamorza Cheese and Parmesan Cheese",
                     "category": "pasta/pizza"
                   },
                   {
                     "name": "Hawaiana",
                     "price": 2600,
-                    "description": "Salsa de Tomate, Queso Mozzarella, Jamon y Pinna. Tomato Sauce, Mozzarella Cheese, Ham and Pineapple",
                     "category": "pasta/pizza"
                   },
                   {
                     "name": "Diabola",
                     "price": 2700,
-                    "description": "Salsa de Tomate, Queso Mozzarella, y Chorizo Picante. Tomato Sauce, Mozzarella Cheese and Spicy Salami",
                     "category": "pasta/pizza"
                   },
                   {
                     "name": "Pizza de Salami",
                     "price": 2800,
-                    "description": "Salsa de Tomate, Queso Mozzarella y Salami. Tomato Sauce, Mozzarella Cheese and Salami",
                     "category": "pasta/pizza"
                   },
                   {
                     "name": "Jamon Serrano",
                     "price": 3200,
-                    "description": "Queso Mozzarella, Jamon Serrano, Rucula, Tomate Natural y Queso Parmesano. Mozzarella Cheese, Serrano Ham, Arugula, Natural Tomato and Parmesan Cheese",
                     "category": "pasta/pizza"
                   },
                   {
                     "name": "Atun y Cebolla",
                     "price": 2600,
-                    "description": "Salsa de Tomate, Atun y Cebolla. Tomato Sauce, Tuna and Onion",
                     "category": "pasta/pizza"
                   },
                   {
                     "name": "Napolitana",
                     "price": 1900,
-                    "description": "Pasta, Salsa de Tomate y Queso Parmesano. Pasta, Tomato Sauce and Parmesan Cheese",
                     "category": "pasta/pizza"
                   },
                   {
                     "name": "Arrabiata",
                     "price": 2000,
-                    "description": "Pasta, Salsa de Tomate, Ajo, Chile Rojo y Aceite de Oliva. Pasta, Tomato Sauce, Garlic, Red Pepper and Olive Oil",
                     "category": "pasta/pizza"
                   },
                   {
                     "name": "Pesto",
                     "price": 2200,
-                    "description": "Pasta, Aceite de Oliva, Albahaca y Queso Parmesano. Pasta, Olive Oil, Basil and Parmesan Cheese",
                     "category": "pasta/pizza"
                   },
                   {
                     "name": "Bolognesa",
                     "price": 2800,
-                    "description": "Pasta with Bolognesa Sauce",
                     "category": "pasta/pizza"
                   },
                   {
                     "name": "Carbonara",
                     "price": 2650,
-                    "description": "Pasta, Bacon, Huevos, Aceite de Oliva, Pimienta Negra, y Queso Parmesano. Pasta, Bacon, Eggs, Olive Oil, Black Pepper, and Parmesan Cheese",
                     "category": "pasta/pizza"
                   },
                   {
@@ -8905,37 +8889,31 @@
                   },
                   {
                     "name": "La Fuente de Duchamp / Duchamp's Fontain",
-                    "description": "Lonjas de pierna de cerdo asadas con adobo tradicional cubano acompannado con pure de malanga / Roasted pork leg slices with traditional Cuban marinade accompanied with malanga puree",
                     "price": 2400,
                     "category": "dishes"
                   },
                   {
                     "name": "Pollo Pollock / Pollock's Chicken",
-                    "description": "Pollo asado con delicado sabor a menta y chocolate, acompannado con vegetales salteados / Roast chicken with a delicate taste of chocolate and mint, decorated with parsley and soy sauces",
                     "price": 2550,
                     "category": "dishes"
                   },
                   {
                     "name": "Tercer Mundo de Lam / Lam's Third World",
-                    "description": "Carne de res cocida, deshilachada y salteada con pimientos, cebollas y aceitunas: \"Ropa vieja\" / Beef cooked, frayed and sauteed with peppers, onions and olives: \"Ropa vieja\"",
                     "price": 3150,
                     "category": "dishes"
                   },
                   {
                     "name": "El Pez de Christo / Christo's Fish",
-                    "description": "Pescado cocido en papillote acompannado de vegetales aderezado con mantequilla, aceite de oliva y perejil / Fish in papillote with steamed vegetables, butter and olive oil",
                     "price": 3300,
                     "category": "dishes"
                   },
                   {
                     "name": "Azul Klein / Klein's Blue",
-                    "description": "Estofado especiado de cordero en salsa roja, al vino tinto y queso azul / Spiced lamb stew in red sauce, red wine and blue cheese",
                     "price": 3900,
                     "category": "dishes"
                   },
                   {
                     "name": "La Cacerola de Broodthaers / Broodthaers's Casserole",
-                    "description": "Enchilado de mariscos en salsa roja con picante al gusto / Seafood enchilado in red sauce with spices to taste",
                     "price": 5400,
                     "category": "dishes"
                   },
