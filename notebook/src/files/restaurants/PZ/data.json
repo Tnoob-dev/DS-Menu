@@ -24,13 +24,13 @@
             }
         },
         "schedules": {
-            "monday": {"start_time": "7:30","end_time": "11:00"},
-            "tuesday": {"start_time": "7:00","end_time": "15:30"},
+            "monday": {"start_time": "07:30","end_time": "11:00"},
+            "tuesday": {"start_time": "07:00","end_time": "15:30"},
             "wednesday": {"start_time": null,"end_time": null},
-            "thursday": {"start_time": "7:30","end_time": "11:00"},
-            "friday": {"start_time": "7:30","end_time": "11:00"},
-            "saturday": {"start_time": "7:30","end_time": "11:00"},
-            "sunday": {"start_time": "7:30","end_time": "11:00"}
+            "thursday": {"start_time": "07:30","end_time": "11:00"},
+            "friday": {"start_time": "07:30","end_time": "11:00"},
+            "saturday": {"start_time": "07:30","end_time": "11:00"},
+            "sunday": {"start_time": "07:30","end_time": "11:00"}
         },
         "menu": {
             "food":[

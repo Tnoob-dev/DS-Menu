@@ -2444,5 +2444,280 @@
                 }
             ]
         }
+    },
+    {
+        "name": "LKG",
+        "localization": {
+            "municipality":"LL",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Caribenna"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": true,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "21:00"},
+            "tuesday": {"start_time": "12:00","end_time": "21:00"},
+            "wednesday": {"start_time": "12:00","end_time": "21:00"},
+            "thursday": {"start_time": "12:00","end_time": "21:00"},
+            "friday": {"start_time": "12:00","end_time": "22:00"},
+            "saturday": {"start_time": "12:00","end_time": "22:00"},
+            "sunday": {"start_time": "12:00","end_time": "22:00"}
+        },
+        "menu": {
+            "food":[
+                {
+                    "name": "Bistec",
+                    "price": 900,
+                    "category": "dishes"
+                },
+                {
+                    "name": "Fricase",
+                    "price": 900,
+                    "category": "dishes"
+                },
+                {
+                    "name": "Pollo",
+                    "price": 1200,
+                    "category": "dishes"
+                },
+                {
+                    "name": "Cangrejo",
+                    "price": 550,
+                    "category": "dishes"
+                },
+                {
+                    "name": "Arroz Frito",
+                    "price": 600,
+                    "category": "dishes"
+                },
+                {
+                    "name": "Langosta",
+                    "price": 1400,
+                    "category": "dishes"
+                },
+                {
+                    "name": "Rueda de pescado",
+                    "price": 950,
+                    "category": "dishes"
+                },
+                {
+                    "name": "Pescado entero",
+                    "price": 950,
+                    "category": "dishes"
+                },
+                {
+                    "name": "Pizza de Jamon",
+                    "price": 300,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "Pizza de Queso",
+                    "price": 200,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "Pizza de doble queso",
+                    "price": 250,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "Pizza de queso gouda",
+                    "price": 2500,
+                    "category": "pasta/pizza"
+                }
+            ],
+            "drinks": [
+                {
+                    "name": "expresso",
+                    "price": 20,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "Agua Mineral",
+                    "price": 150,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "Cerveza",
+                    "price": 250,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "Refresco Importado",
+                    "price": 230,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "Batido de frutas",
+                    "price": 235,
+                    "is_alcoholic": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality":"LL",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": true,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "21:00"},
+            "tuesday": {"start_time": "12:00","end_time": "21:00"},
+            "wednesday": {"start_time": "12:00","end_time": "21:00"},
+            "thursday": {"start_time": "12:00","end_time": "21:00"},
+            "friday": {"start_time": "12:00","end_time": "22:00"},
+            "saturday": {"start_time": "12:00","end_time": "22:00"},
+            "sunday": {"start_time": "12:00","end_time": "22:00"}
+        },
+        "menu": {
+            "food":[
+                {
+                    "name": "",
+                    "price": 0,
+                    "category": "starter"
+                }
+            ],
+            "drinks": [
+                {
+                    "name": "",
+                    "price": 0,
+                    "is_alcoholic": true
+                }
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality":"LL",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": true,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "21:00"},
+            "tuesday": {"start_time": "12:00","end_time": "21:00"},
+            "wednesday": {"start_time": "12:00","end_time": "21:00"},
+            "thursday": {"start_time": "12:00","end_time": "21:00"},
+            "friday": {"start_time": "12:00","end_time": "22:00"},
+            "saturday": {"start_time": "12:00","end_time": "22:00"},
+            "sunday": {"start_time": "12:00","end_time": "22:00"}
+        },
+        "menu": {
+            "food":[
+                {
+                    "name": "",
+                    "price": 0,
+                    "category": "starter"
+                }
+            ],
+            "drinks": [
+                {
+                    "name": "",
+                    "price": 0,
+                    "is_alcoholic": true
+                }
+            ]
+        }
+    },
+    {
+        "name": "",
+        "localization": {
+            "municipality":"LL",
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "cuisine": ["Criolla"],
+        "services": {
+            "a_la_carte": true,
+            "reservation": true,
+            "delivery": false
+        },
+        "payment": {
+            "cash": true,
+            "transfer": true,
+            "currency": {
+                "cup": true,
+                "usd": false,
+                "eur": false
+            }
+        },
+        "schedules": {
+            "monday": {"start_time": "12:00","end_time": "21:00"},
+            "tuesday": {"start_time": "12:00","end_time": "21:00"},
+            "wednesday": {"start_time": "12:00","end_time": "21:00"},
+            "thursday": {"start_time": "12:00","end_time": "21:00"},
+            "friday": {"start_time": "12:00","end_time": "22:00"},
+            "saturday": {"start_time": "12:00","end_time": "22:00"},
+            "sunday": {"start_time": "12:00","end_time": "22:00"}
+        },
+        "menu": {
+            "food":[
+                {
+                    "name": "",
+                    "price": 0,
+                    "category": "starter"
+                }
+            ],
+            "drinks": [
+                {
+                    "name": "",
+                    "price": 0,
+                    "is_alcoholic": true
+                }
+            ]
+        }
     }
 ]

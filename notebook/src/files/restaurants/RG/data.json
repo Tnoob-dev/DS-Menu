@@ -1108,9 +1108,7 @@
                     "name": "camarones empanados",
                     "price": 550.0,
                     "category": "dishes"
-                }
-            ],
-            "drinks": [
+                },
                 {
                     "name": "pizza mixta med/fam.",
                     "price": 400.0,
@@ -1146,7 +1144,8 @@
                     "price": 350.0,
                     "category": "pasta/pizza"
                 }
-            ]
+            ],
+            "drinks": null
         }
     }
 ]
