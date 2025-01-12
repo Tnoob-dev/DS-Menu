@@ -2139,27 +2139,27 @@
                 {
                     "name": "aguas",
                     "price": 350.0,
-                    "category": false
+                    "is_alcoholic": false
                 },
                 {
                     "name": "jugos naturales",
                     "price": 250.0,
-                    "category": false
+                    "is_alcoholic": false
                 },
                 {
                     "name": "carlota",
                     "price": 300.0,
-                    "category": false
+                    "is_alcoholic": false
                 },
                 {
                     "name": "limonada",
                     "price": 350.0,
-                    "category": false
+                    "is_alcoholic": false
                 },
                 {
                     "name": "refrescos",
                     "price": 350.0,
-                    "category": false
+                    "is_alcoholic": false
                 }
             ]
         }
