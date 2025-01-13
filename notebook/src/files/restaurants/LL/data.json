@@ -2571,7 +2571,7 @@
         }
     },
     {
-        "name": "",
+        "name": "La Baliza",
         "localization": {
             "municipality":"LL",
             "coordinates": {
@@ -2579,10 +2579,10 @@
                 "longitude": 0
             }
         },
-        "cuisine": ["Criolla"],
+        "cuisine": ["Americana", "Italiana"],
         "services": {
             "a_la_carte": true,
-            "reservation": true,
+            "reservation": false,
             "delivery": false
         },
         "payment": {
@@ -2606,22 +2606,67 @@
         "menu": {
             "food":[
                 {
-                    "name": "",
-                    "price": 0,
-                    "category": "starter"
+                    "name": "Sandwich de Jamon y Queso",
+                    "price": 500,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "Hamburguesa",
+                    "price": 490,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "Super Hamburguesa",
+                    "price": 950,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "Pizza de queso gouda chiquita",
+                    "price": 450,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "Pizza de queso gouda grande",
+                    "price": 700,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "Pizza de queso blanco chiquita",
+                    "price": 350,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "Pizza de queso blanco grande",
+                    "price": 520,
+                    "category": "pasta/pizza"
                 }
             ],
             "drinks": [
                 {
-                    "name": "",
-                    "price": 0,
+                    "name": "cerveza importada",
+                    "price": 250,
                     "is_alcoholic": true
+                },
+                {
+                    "name": "Batido de Mamey",
+                    "price": 230,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "Refresco Importado",
+                    "price": 230,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "Agua Mineral",
+                    "price": 150,
+                    "is_alcoholic": false
                 }
             ]
         }
     },
     {
-        "name": "",
+        "name": "Pacomeralgo",
         "localization": {
             "municipality":"LL",
             "coordinates": {
@@ -2629,10 +2674,10 @@
                 "longitude": 0
             }
         },
-        "cuisine": ["Criolla"],
+        "cuisine": ["Italiana"],
         "services": {
             "a_la_carte": true,
-            "reservation": true,
+            "reservation": false,
             "delivery": false
         },
         "payment": {
@@ -2656,65 +2701,170 @@
         "menu": {
             "food":[
                 {
-                    "name": "",
-                    "price": 0,
-                    "category": "starter"
+                    "name": "Sandwich de queso",
+                    "price": 400,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "sandwich de jamon",
+                    "price": 400,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "Sandwich de jamon y queso",
+                    "price": 450,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "Sandwich de atun",
+                    "price": 450,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "Pan con hamburguesa",
+                    "price": 450,
+                    "category": "hamburger/sandwich"
+                },
+                {
+                    "name": "Lasagna",
+                    "price": 615,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "Pizza de queso",
+                    "price": 600,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "Pizza de Jamon",
+                    "price": 770,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "Pizza de Chorizo",
+                    "price": 770,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "Pizza de Cebolla",
+                    "price": 750,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "Pizza de Aji",
+                    "price": 730,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "Pizza de Aceituna",
+                    "price": 780,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "Pizza hawaiana",
+                    "price": 820,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "Pizza de pasas con pinas",
+                    "price": 730,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizza de atun",
+                    "price": 840,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "pizza paco",
+                    "price": 1000,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "espaguetis napolitanos",
+                    "price": 600,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "espaguetis de jamon",
+                    "price": 720,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "espaguetis de chorizo",
+                    "price": 720,
+                    "category": "pasta/pizza"
+                },
+                {
+                    "name": "espaguetis de atun",
+                    "price": 790,
+                    "category": "pasta/pizza"
                 }
             ],
             "drinks": [
                 {
-                    "name": "",
-                    "price": 0,
-                    "is_alcoholic": true
-                }
-            ]
-        }
-    },
-    {
-        "name": "",
-        "localization": {
-            "municipality":"LL",
-            "coordinates": {
-                "latitude": 0,
-                "longitude": 0
-            }
-        },
-        "cuisine": ["Criolla"],
-        "services": {
-            "a_la_carte": true,
-            "reservation": true,
-            "delivery": false
-        },
-        "payment": {
-            "cash": true,
-            "transfer": true,
-            "currency": {
-                "cup": true,
-                "usd": false,
-                "eur": false
-            }
-        },
-        "schedules": {
-            "monday": {"start_time": "12:00","end_time": "21:00"},
-            "tuesday": {"start_time": "12:00","end_time": "21:00"},
-            "wednesday": {"start_time": "12:00","end_time": "21:00"},
-            "thursday": {"start_time": "12:00","end_time": "21:00"},
-            "friday": {"start_time": "12:00","end_time": "22:00"},
-            "saturday": {"start_time": "12:00","end_time": "22:00"},
-            "sunday": {"start_time": "12:00","end_time": "22:00"}
-        },
-        "menu": {
-            "food":[
+                    "name": "expresso",
+                    "price": 150,
+                    "is_alcoholic": false
+                },
                 {
-                    "name": "",
-                    "price": 0,
-                    "category": "starter"
-                }
-            ],
-            "drinks": [
+                    "name": "americano",
+                    "price": 150,
+                    "is_alcoholic": false
+                },
                 {
-                    "name": "",
-                    "price": 0,
+                    "name": "cortadito",
+                    "price": 220,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "Bombon",
+                    "price": 350,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "Refresco de Cola",
+                    "price": 250,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "Refresco de limon",
+                    "price": 250,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "refresco de naranja",
+                    "price": 250,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "jugo pequenno",
+                    "price": 250,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "jugo grande",
+                    "price": 900,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "malta",
+                    "price": 350,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "energizante",
+                    "price": 650,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "Yogurt vaso",
+                    "price": 350,
+                    "is_alcoholic": false
+                },
+                {
+                    "name": "Cerveza",
+                    "price": 250,
                     "is_alcoholic": true
                 }
             ]
