@@ -6,10 +6,9 @@ def load_json(file_path: str) -> Dict[str, Any]:
     with open(file_path, "r") as file:
         return json.load(file)
 
-def extract_info(json_path: str) -> List[Dict[str, Any]]:
-    
+def extract_info(json_path: str) -> List[Dict[str, Any]]:    
     df = pd.read_json(json_path)
-    data = []
+    data: List[Dict[str, Any]] = []
     
     for index, row in df.iterrows():
         data.append({
