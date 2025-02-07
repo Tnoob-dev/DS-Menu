@@ -22,7 +22,8 @@ def drill_schedule(schedule: dict) -> str:
 
 def filter_lists(data_list: List[Dict[str, Any]], key: str) -> List[Dict[str, List[str]]]:
     mun_with_info: Dict = {}
-
+    
+    result = []
     for item in data_list:
         if item.get(key) is not None:
             municipality: str = item["municipality"]
@@ -31,7 +32,12 @@ def filter_lists(data_list: List[Dict[str, Any]], key: str) -> List[Dict[str, Li
                 mun_with_info[municipality].extend(item[key])
             else:
                 mun_with_info[municipality] = item[key]
+        
+    for municipality, new_filter in mun_with_info.items():
+        result.append({
+            municipality: new_filter
+        })
 
-    result = [{municipality: new_filter} for municipality, new_filter in mun_with_info.items()]
+    # result = [{municipality: new_filter} for municipality, new_filter in mun_with_info.items()]
 
     return result
